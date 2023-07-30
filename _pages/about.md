@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. Candidate in Economics at SUNY University at Buffalo. My primary research field is applied microeconomics, with a focus on labor economics and health economics. I am also interested in studying the formation and impact of academic social networks.
 
-I am on the job market in the 2022-2023 academic year and will be available for interviews.
+I am on the job market in the 2023-2024 academic year and will be available for interviews.
 
 
 
