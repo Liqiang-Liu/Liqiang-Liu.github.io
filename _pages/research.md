@@ -16,7 +16,7 @@ redirect_from:
   </details><br>
 
 <span style="font-family: pxfonts;">"Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Health Outcomes Over Life Cycle"</span>
-  <details style="font-size:30%; background-color:#fbfffa;">
+  <details style="margin-top:3px; background-color:#fbfffa;">
   <summary style="font-size: 14px;"><span style="font-family: pxfonts;"><font size="3">Abstract</font></span></summary>
   <span style="font-family: pxfonts;"><font size="3">This paper investigates the effects of early legal access to oral contraceptives on women’s life-cycle health outcomes (e.g., mortality and self-reported disability) using the plausible quasi-experimental design introduced by Goldin and Katz (2002). The identification leverages the cross-state and cross-cohort variation in state consent laws. Utilizing the difference-in-differences approach, our results suggest that early access to the pill reduces women's mortality rates during their 30s and 40s, and the improvement in health is primarily driven by the decline in mortality rate caused by cancer, diabetes, heart disease, and cerebrovascular disease. Also, we find that women who would have had early access to the pill are, on average, more likely to have self-reported physical disability during their late 50s and 60s. Additionally, our analysis reveals that non-white women experience greater benefits from early pill access. Our mechanism analysis identifies four potential channels: early access to the pill (1) rises in college completion, (2) increases (decreases) in oral contraceptive-related mortality, (3) increases (decreases) in health behavior measures, and (4) enhances life expectancy.</font></span>
   </details>
