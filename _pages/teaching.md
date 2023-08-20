@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-### Graduate Teaching Assistant, Department of Economics, Auburn University | (Fall 2018 – Spring 202022)
+### Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo | (Fall 2018 – Spring 202022)
 * Microeconomic Theory
   * Fall   2018 `|` Prof. Fahle, Sean
   * Spring 2019 `|` Prof. Liu, Zhiqiang
