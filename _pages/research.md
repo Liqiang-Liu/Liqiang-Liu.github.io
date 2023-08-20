@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "<span style="font-family: pxfonts;">Research</span>"
+title: "Research"
 author_profile: true
 redirect_from: 
   - /md/
