@@ -1,6 +1,6 @@
 ---
-permalink: /Teaching/
-title: "teaching"
+permalink: /teaching/
+title: "Teaching"
 author_profile: true
 redirect_from: 
   - /md/
