@@ -25,7 +25,7 @@ redirect_from:
   </details>
 
 ## Works in Progress
-<span style="font-family: pxfonts;">"Systemic Bias in US Economics Departments: The Role of Homophily"</span> with Randall Ellis, Changwoo Lee, and Jiarui Wang
+<span style="font-family: pxfonts;">"Systemic Bias in US Economics Departments: The Role of Homophily"</span> <span style="font-size:13px;"> *with Randall Ellis, Changwoo Lee, and Jiarui Wang* </span>
 
-<span style="font-family: pxfonts;">"Measuring Dollar Risk: A Natural Language Processing Method"</span> with Jiarui Wang
+<span style="font-family: pxfonts;">"Measuring Dollar Risk: A Natural Language Processing Method"</span> <span style="font-size:13px;"> *with Jiarui Wang* </span>
 
