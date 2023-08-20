@@ -1,202 +1,28 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /research/
+title: "research"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /research.html
 ---
 
-## Locations of key files/directories
+## Research
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+### Working Papers Job Market Paper
+* Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from Economics Discipline
+<details open>
+  <summary>Abstract</summary>
+  This paper studies the impacts of initial labor market conditions on young economists' early-career co-authorship networks and academic achievements. The identification leverages the plausibly exogenous variation in labor market conditions at initial entry instrumented by the unemployment rates of the predicted year of graduation. Using our three novel datasets (PhD Candidate, Top5 Co-authorship Network, and NBER Affiliated Scholar), we find that economists graduating during periods of elevated unemployment rates demonstrate expanded social networks and increased research output; however, the impact on research output diminishes after the fifth year following graduation. Furthermore, our findings suggest that recession economists who are male and non-US citizens encounter reduced probabilities of securing tenure positions at prestigious academic institutions. Additionally, our analysis of heterogeneity suggests that the effects of adverse initial labor market conditions are primarily driven by economists who are white, male, non-US citizens, and graduating from tier 1 schools. We also explore the mechanisms underlying the effect of initial labor market conditions. The findings suggest that the increased extrinsic motivation may enhance social networks and research output during the initial four years, the anticipated attainment of tenure and the pursuit of post-doctoral positions may partially explain the reversal of impact in later years, and non-research factors may explain the diminished likelihood of achieving tenure at prestigious academic institutions.
+</details>
 
-## Tips and hints
+* Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Health Outcomes Over Life Cycle
+<details open>
+  <summary>Abstract</summary>
+  This paper investigates the effects of early legal access to oral contraceptives on women’s life-cycle health outcomes (e.g., mortality and self-reported disability) using the plausible quasi-experimental design introduced by Goldin and Katz (2002). The identification leverages the cross-state and cross-cohort variation in state consent laws. Utilizing the difference-in-differences approach, our results suggest that early access to the pill reduces women's mortality rates during their 30s and 40s, and the improvement in health is primarily driven by the decline in mortality rate caused by cancer, diabetes, heart disease, and cerebrovascular disease. Also, we find that women who would have had early access to the pill are, on average, more likely to have self-reported physical disability during their late 50s and 60s. Additionally, our analysis reveals that non-white women experience greater benefits from early pill access. Our mechanism analysis identifies four potential channels: early access to the pill (1) rises in college completion, (2) increases (decreases) in oral contraceptive-related mortality, (3) increases (decreases) in health behavior measures, and (4) enhances life expectancy.
+</details>
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+### Works in Progress
+* Systemic Bias in US Economics Departments: The Role of Homophily (with Randall Ellis, Changwoo Lee, and Jiarui Wang)
+* Measuring Dollar Risk: A Natural Language Processing Method (with Jiarui Wang)
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
-
-## Markdown guide
-
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
-
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
