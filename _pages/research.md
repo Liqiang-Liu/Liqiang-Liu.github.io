@@ -14,7 +14,7 @@ redirect_from:
   <details>
   <summary><font size="2">Abstract</font></summary>
   <font size="2">This paper studies the impacts of initial labor market conditions on young economists' early-career co-authorship networks and academic achievements. The identification leverages the plausibly exogenous variation in labor market conditions at initial entry instrumented by the unemployment rates of the predicted year of graduation. Using our three novel datasets (PhD Candidate, Top5 Co-authorship Network, and NBER Affiliated Scholar), we find that economists graduating during periods of elevated unemployment rates demonstrate expanded social networks and increased research output; however, the impact on research output diminishes after the fifth year following graduation. Furthermore, our findings suggest that recession economists who are male and non-US citizens encounter reduced probabilities of securing tenure positions at prestigious academic institutions. Additionally, our analysis of heterogeneity suggests that the effects of adverse initial labor market conditions are primarily driven by economists who are white, male, non-US citizens, and graduating from tier 1 schools. We also explore the mechanisms underlying the effect of initial labor market conditions. The findings suggest that the increased extrinsic motivation may enhance social networks and research output during the initial four years, the anticipated attainment of tenure and the pursuit of post-doctoral positions may partially explain the reversal of impact in later years, and non-research factors may explain the diminished likelihood of achieving tenure at prestigious academic institutions.</font>
-  </details>
+  </details><br>
 
 
 * Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Health Outcomes Over Life Cycle
@@ -24,7 +24,7 @@ redirect_from:
   </details>
 
 ## Works in Progress
-* Systemic Bias in US Economics Departments: The Role of Homophily (with Randall Ellis, Changwoo Lee, and Jiarui Wang)
+* Systemic Bias in US Economics Departments: The Role of Homophily (with Randall Ellis, Changwoo Lee, and Jiarui Wang)<br>
 
 * Measuring Dollar Risk: A Natural Language Processing Method (with Jiarui Wang)
 
