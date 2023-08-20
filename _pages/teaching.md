@@ -19,8 +19,8 @@ redirect_from:
 }
 </style>
 
-<ul class="custom-bullet">
-<span style="font-size: 18px;"> <span style="color:teal">Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo</span> | (Fall 2018 – Spring 202022)</span>
+
+<span style="font-size: 14px;"> <span style="color:#fafcff">Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo</span> | (Fall 2018 – Spring 202022)</span>
 * Microeconomic Theory
 <font size="3">
   * Fall   2018 `|` Prof. Fahle, Sean
@@ -37,4 +37,4 @@ redirect_from:
 * Intro to Microeconomics
   * Fall   2021 `|` Prof. Winston, Aisling
   * Fall   2022 `|` Prof. Downs, Justin
-</ul>
+
