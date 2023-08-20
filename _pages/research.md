@@ -9,10 +9,10 @@ redirect_from:
 
 <style>
 .toggle-section {
-    margin-top: 10px;
+    margin-top: 5px;
 }
 .toggle-summary {
-    margin-top: -10px;
+    margin-top: -5px;
 }
 </style>
 
