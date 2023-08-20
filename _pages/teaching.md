@@ -10,11 +10,13 @@ redirect_from:
 
 
 
-### Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo | (Fall 2018 – Spring 202022)
+#### <span style="color:teal">Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo</span> | (Fall 2018 – Spring 202022)
 * Microeconomic Theory
+<font size="3">
   * Fall   2018 `|` Prof. Fahle, Sean
   * Spring 2019 `|` Prof. Liu, Zhiqiang
   * Fall   2019 `|` Prof. Fahle, Sean
+</font>
 * Econometrics (Master)
   * Spring 2020 `|` Prof. Revankar, Nagesh
 * Labor Economics (Master)
