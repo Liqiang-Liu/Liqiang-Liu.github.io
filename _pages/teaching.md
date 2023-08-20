@@ -15,6 +15,7 @@ redirect_from:
 
 .custom-bullet li::before {
     content: "\25A0"; /* Unicode character for a small square */
+    font-size: 10px; /* Adjust this value to change the icon size */
     margin-right: 0.5em;
 }
 </style>
