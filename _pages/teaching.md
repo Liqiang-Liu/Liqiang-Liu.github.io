@@ -20,7 +20,7 @@ redirect_from:
 </style>
 
 <ul class="custom-bullet">
-#### <span style="color:teal">Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo</span> | (Fall 2018 – Spring 202022)
+<span style="font-size: 18px;"> <span style="color:teal">Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo</span> | (Fall 2018 – Spring 202022)</span>
 * Microeconomic Theory
 <font size="3">
   * Fall   2018 `|` Prof. Fahle, Sean
