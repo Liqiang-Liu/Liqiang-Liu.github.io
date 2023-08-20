@@ -12,7 +12,7 @@ redirect_from:
     margin-top: 5px;
 }
 .toggle-summary {
-    margin-top: -25px;
+    margin-top: -20px;
 }
 </style>
 
