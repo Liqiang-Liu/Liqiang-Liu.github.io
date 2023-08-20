@@ -7,7 +7,7 @@ redirect_from:
   - /workexperience.html
 ---
 
-
+### Procurement Engineer, Shenzhen Union Technology Co., Ltd., Shenzhen, China [2015 - 2017]
 
 
 
