@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Ph.D. Candidate in Economics at <a href="https://www.buffalo.edu/" style="text-decoration: underline;"><span style="color: Smalt">The State University of New York at Buffalo</span></a>. My primary research field is applied microeconomics, with a focus on labor economics and health economics. I am also interested in studying the formation and impact of social networks.
 
+During Fall 2022 to Spring 2023, I was a visiting PhD student in the department of Economics at Boston University.
+
 I am on the job market in the 2023-2024 academic year and will be available for interviews.
 
 
