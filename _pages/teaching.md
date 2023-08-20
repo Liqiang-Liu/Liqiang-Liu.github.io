@@ -21,20 +21,40 @@ redirect_from:
 
 <ul class="custom-bullet">
 <span style="font-size: 14px;"> <span style="color:#fafcff">Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo</span> | (Fall 2018 – Spring 202022)</span>
-<li> Microeconomic Theory</li>
-<font size="3">
-  <li>Fall   2018 `|` Prof. Fahle, Sean
-  <li>Spring 2019 `|` Prof. Liu, Zhiqiang</li>
-  <li>Fall   2019 `|` Prof. Fahle, Sean</li></li>
-</font>
+  
+<li> Microeconomic Theory
+  <ul class="custom-bullet">
+    <font size="3">
+    <li>Fall   2018 `|` Prof. Fahle, Sean
+    <li>Spring 2019 `|` Prof. Liu, Zhiqiang</li>
+    <li>Fall   2019 `|` Prof. Fahle, Sean</li>
+    </font>
+  </ul>
+</li>
+
 <li>Econometrics (Master)
-  <li>Spring 2020 `|` Prof. Revankar, Nagesh</li></li>
+  <ul class="custom-bullet">
+    <li>Spring 2020 `|` Prof. Revankar, Nagesh</li>
+  </ul>
+</li>
+
 <li>Labor Economics (Master)
-  <li>Spring 2020 `|` Prof. Rao, Neel</li></li>
+  <ul class="custom-bullet">
+    <li>Spring 2020 `|` Prof. Rao, Neel</li>
+  </ul>
+</li>
+
 <li>Econometrics (Ph.D.)
-  <li>Spring 2021 `|` Prof. Li, Mingliang</li>
-  <li>Spring 2022 `|` Prof. Li, Mingliang</li></li>
+  <ul class="custom-bullet">
+    <li>Spring 2021 `|` Prof. Li, Mingliang</li>
+    <li>Spring 2022 `|` Prof. Li, Mingliang</li>
+  </ul>
+</li>
+
 <li>Intro to Microeconomics
-  <li>Fall   2021 `|` Prof. Winston, Aisling</li>
-  <li>Fall   2022 `|` Prof. Downs, Justin</li></li>
+  <ul class="custom-bullet">
+    <li>Fall   2021 `|` Prof. Winston, Aisling</li>
+    <li>Fall   2022 `|` Prof. Downs, Justin</li>
+  </ul>
+</li>
 </ul>
