@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## Working Papers 
-* Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from Economics Discipline <a href="https://github.com/Liqiang-Liu/Liqiang-Liu.github.io/blob/main/files/jmp.pdf" style="text-decoration:none;"><span style="color:teal"><font size="2">(Job Market Paper)</font></span></a>
+* Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from Economics Discipline <a href="https://github.com/Liqiang-Liu/Liqiang-Liu.github.io/blob/main/files/jmp.pdf" style="text-decoration:none;"><span style="color:teal"><font size="2">\[Job Market Paper\]</font></span></a>
 
   <details>
   <summary><font size="2">Abstract</font></summary>
