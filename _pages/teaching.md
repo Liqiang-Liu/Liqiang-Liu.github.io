@@ -23,7 +23,7 @@ redirect_from:
 }
 </style>
 
-<span style="color:white;"> space space space </span> 
+<br><br><br>
 
 
 <span style="font-size: 16px;"> <span style="color:#0072bb;"> **Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo** </span> </span>
