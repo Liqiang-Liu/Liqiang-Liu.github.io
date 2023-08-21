@@ -13,12 +13,12 @@ body {
     background-image: url('/images/background.jpg');
     background-size: 800px 100px; /* Set the width and height values as needed */
     background-repeat: no-repeat; /* Prevent image repetition */
-    background-position: 50% 20%; /* Adjust the position as needed */
+    background-position: 60% 25%; /* Adjust the position as needed */
     height: 100vh; /* Set the height to fill the viewport */
 }
 </style>
 
-<br><br><br><br>
+<br><br><br>
 
 I am a Ph.D. Candidate in Economics at <a href="https://www.buffalo.edu/" style="text-decoration:none;"><span style="color: #0072bb">The State University of New York at Buffalo</span></a>. My primary research field is applied microeconomics, with a focus on labor economics and health economics. I am also interested in studying the formation and impact of social networks.
 
