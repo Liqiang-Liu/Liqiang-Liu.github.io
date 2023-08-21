@@ -1,12 +1,15 @@
 ---
 permalink: /workexperience/
-title: "Work Experience"
+title: 
 author_profile: true
 redirect_from: 
   - /md/
   - /workexperience.html
 ---
+<br/> 
 
+# <center> Work Experience </center>
+- - -
 
 <style>
 .custom-bullet {
