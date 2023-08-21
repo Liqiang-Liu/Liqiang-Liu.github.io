@@ -1,11 +1,16 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: 
 author_profile: true
 redirect_from: 
   - /md/
   - /teaching.html
 ---
+
+<br/> 
+
+# <center> Teaching </center>
+- - -
 
 <style>
 .custom-bullet {
