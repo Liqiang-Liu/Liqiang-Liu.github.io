@@ -22,7 +22,7 @@ redirect_from:
 </style>
 
 <br>
-
+<ul class="custom-bullet">
 <span style="font-size: 17px;"> **Full-time Job** </span>
   <span style="font-size: 16px;"><strong>Procurement Engineer, Shenzhen Union Technology Co., Ltd., Shenzhen, China [07/2015 - 07/2017]</strong></span>
     <ul class="custom-bullet">
@@ -39,6 +39,6 @@ redirect_from:
       <li><span style="font-size: 15px; font-family: monospace;">Analyzed the effects of economic events on the futures market</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">Forecasted futures prices and determined appropriate investment strategies</span></li>
      </ul>
-
+</ul>
 
 
