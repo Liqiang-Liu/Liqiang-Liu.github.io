@@ -28,7 +28,7 @@ redirect_from:
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: 'Courier New', monospace;">Fall   2018 -- Prof. Sean Fahle</span></li>
       <li><span style="font-size: 15px; font-family: 'Courier New', monospace;">Spring 2019 -- Prof. Zhiqiang Liu</span></li>
-      <li><span style="font-size: 15px;">Fall   2019 -- Prof. Sean Fahle</span></li>
+      <li><span style="font-size: 15px; font-family: monospace;">Fall   2019 -- Prof. Sean Fahle</span></li>
      </ul>
   
   <span style="font-size: 16px;"> <strong>Econometrics (Master Level)</strong></span>
