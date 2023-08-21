@@ -26,7 +26,7 @@ redirect_from:
 <span style="color:white;"> space space space </span> 
 
 
-<span style="font-size: 16px;"> <span style="color:Navy;"> **Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo** </span> </span>
+<span style="font-size: 16px;"> <span style="color:#003366;"> **Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo** </span> </span>
 <ul class="custom-bullet"> 
   <li> <span style="font-size: 16px;"><strong>Microeconomic Theory (Undergraduate)</strong></span>
     <ul class="custom-bullet">
