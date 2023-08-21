@@ -8,25 +8,9 @@ redirect_from:
 ---
 <br/> 
 
-<style>
-.toggle-section {
-    margin-top: 5px;
-}
-.toggle-summary {
-    margin-top: -15px;
-}
-
-@font-face {
-    font-family: 'CMU Bright';
-    src: url('path-to-your-font.woff2') format('woff2'),
-         url('path-to-your-font.woff') format('woff');
-    /* Add more font formats as needed */
-    font-weight: normal;
-    font-style: normal;
-</style>
 
 **Working Papers**<br/>
-<span style="font-size: 16px; font-family: 'CMU Bright';">“Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from Economics Discipline”</span> <a href="https://liqiang-liu.github.io/assets/files/jmp.pdf" style="text-decoration:none;"><span style="color:teal"><font size="3">[Job Market Paper]</font></span></a><br/>
+<span style="font-size: 16px; font-family: 'CMU Bright';">“Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from Economics Discipline”</span> <span style="color:teal"><font size="3">[Job Market Paper]</font></span><br/>
 <small>[ <a href="#/" onclick="visib('jmp')"><span style="color:teal">Abstract</span></a> | [<span style="color:teal">Draft</span>][JMP] ] </small>
 
 <div id="jmp" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
@@ -36,7 +20,7 @@ This paper studies the impacts of initial labor market conditions on young econo
 [JMP]:{{ site.baseurl }}{% link assets/files/jmp.pdf %}
 
 
-<span style="font-size: 16px;">“Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Health Outcomes Over Life Cycle”</span><br/>
+<span style="font-size: 16px; font-family: 'CMU Serif', serif;">“Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Health Outcomes Over Life Cycle”</span><br/>
 <small>[ <a href="#/" onclick="visib('pill')"><span style="color:teal">Abstract</span></a>] </small>
 
 <div id="pill" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
@@ -60,14 +44,28 @@ This paper investigates the effects of early legal access to oral contraceptives
 [//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
 
 
-
 **Works in Progress**<br/>
 
-<span style="font-size: 16px;">“Systemic Bias in US Economics Departments: The Role of Homophily” <span style="font-size:14px;"> *with Randall Ellis, Changwoo Lee, and Jiarui Wang*</span></span> <br>
+<span style="font-size: 16px; font-family: 'CMU Serif', serif;">“Systemic Bias in US Economics Departments: The Role of Homophily” <span style="font-size:14px;"> *with Randall Ellis, Changwoo Lee, and Jiarui Wang*</span></span> <br>
 
-<span style="font-size: 16px;">“Measuring Dollar Risk: A Natural Language Processing Approach” <span style="font-size:14px;"> *with Jiarui Wang*</span></span>
+<span style="font-size: 16px; font-family: 'CMU Serif', serif;">“Measuring Dollar Risk: A Natural Language Processing Approach” <span style="font-size:14px;"> *with Jiarui Wang*</span></span>
 
 <!--
+<style>
+.toggle-section {
+    margin-top: 5px;
+}
+.toggle-summary {
+    margin-top: -15px;
+}
+@font-face {
+    font-family: 'CMU Bright';
+    src: url('path-to-your-font.woff2') format('woff2'),
+         url('path-to-your-font.woff') format('woff');
+    /* Add more font formats as needed */
+    font-weight: normal;
+    font-style: normal; 
+</style>
 ### Working Papers
 <span style="font-family: pxfonts;">"Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from Economics Discipline" <a href="https://liqiang-liu.github.io/assets/files/jmp.pdf" style="text-decoration:none;"><span style="color:teal"><font size="3">[Job Market Paper]</font></span></a></span>
   <details class="toggle-section" style="font-size:80%; background-color:#fafffa;">
