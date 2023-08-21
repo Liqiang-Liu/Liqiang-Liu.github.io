@@ -20,7 +20,7 @@ redirect_from:
 }
 </style>
 
-<br><br>
+<br>
 
 <span style="font-size: 16px;"> <span style="color:#0072bb;"> **Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo** </span> </span>
 <ul class="custom-bullet"> 
