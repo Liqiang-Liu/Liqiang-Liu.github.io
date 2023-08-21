@@ -24,7 +24,6 @@ redirect_from:
 
 <ul class="custom-bullet">
 <span style="font-size: 17px;"><strong>1. Investment</strong></span><br>
-
   <span style="font-size: 16px;"><strong>I am an experienced equity investor knowledgeable in both technicals and fundamentals</strong></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; ">My investment principle 1: life-changing opportunities emerge as disaster strikes</span></li>
