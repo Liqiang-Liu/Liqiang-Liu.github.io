@@ -11,9 +11,9 @@ redirect_from:
 <style>
 body {
     background-image: url('/images/background.jpg');
-    background-size: 200px 300px; /* Set the width and height values as needed */
+    background-size: 800px 300px; /* Set the width and height values as needed */
     background-repeat: no-repeat; /* Prevent image repetition */
-    background-position: center center; /* Adjust the position as needed */
+    background-position: center bottom; /* Adjust the position as needed */
 }
 </style>
 
