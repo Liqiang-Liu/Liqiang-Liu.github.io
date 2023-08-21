@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV [Here](https://liqiang-liu.github.io/files/cv.pdf)
+Download my CV [<span style="color: #0072bb">Here<\span>](https://liqiang-liu.github.io/files/cv.pdf)
 
 <!--
 Education
