@@ -25,37 +25,36 @@ redirect_from:
 
 <span style="color:white;"> space space space </span> 
 
-<span style="color:white;"> space space space </span> 
 
-<span style="font-size: 16px;"> <span style="color:Navy;"> Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo </span> | (Fall 2018 – Spring 2022)</span>
+<span style="font-size: 16px;"> <span style="color:Navy;"> **Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo** </span> | (Fall 2018 – Spring 2022)</span>
 <ul class="custom-bullet"> 
-  <li> <span style="font-size: 16px;">Microeconomic Theory</span>
+  <li> <span style="font-size: 16px;">**Microeconomic Theory (Undergraduate)**</span>
     <ul class="custom-bullet">
-      <li><span style="font-size: 14px;">Fall   2018 `|` Prof. Sean Fahle</span></li>
-      <li>Spring 2019 `|` Prof. Zhiqiang Liu</li>
-      <li>Fall   2019 `|` Prof. Sean Fahle</li>
+      <li><span style="font-size: 15px;">Fall   2018 `|` Prof. Sean Fahle</span></li>
+      <li><span style="font-size: 15px;">Spring 2019 `|` Prof. Zhiqiang Liu</span></li>
+      <li><span style="font-size: 15px;">Fall   2019 `|` Prof. Sean Fahle</span></li>
      </ul>
   </li>
-  <li><span style="font-size: 16px;">Econometrics (Master)</span>
+  <li><span style="font-size: 16px;">**Econometrics (Master)**</span>
     <ul class="custom-bullet">
-      <li>Spring 2020 `|` Prof. Revankar, Nagesh</li>
+      <li><span style="font-size: 15px;">Spring 2020 `|` Prof. Revankar, Nagesh</span></li>
     </ul>
   </li>
-  <li><span style="font-size: 16px;">Labor Economics (Master)</span>
+  <li><span style="font-size: 16px;">**Labor Economics (Master)**</span>
     <ul class="custom-bullet">
-      <li>Spring 2020 `|` Prof. Rao, Neel</li>
+      <li><span style="font-size: 15px;">Spring 2020 `|` Prof. Rao, Neel</span></li>
     </ul>
   </li>
-  <li><span style="font-size: 16px;">Econometrics (Ph.D.)</span>
+  <li><span style="font-size: 16px;">**Econometrics (Ph.D.)**</span>
     <ul class="custom-bullet">
-      <li>Spring 2021 `|` Prof. Li, Mingliang</li>
-      <li>Spring 2022 `|` Prof. Li, Mingliang</li>
+      <li><span style="font-size: 15px;">Spring 2021 `|` Prof. Li, Mingliang</span></li>
+      <li><span style="font-size: 15px;">Spring 2022 `|` Prof. Li, Mingliang</span></li>
     </ul>
   </li>
-  <li><span style="font-size: 16px;">Intro to Microeconomics</span>
+  <li><span style="font-size: 16px;">**Intro to Microeconomics (Undergraduate)**</span>
     <ul class="custom-bullet">
-      <li>Fall   2021 `|` Prof. Winston, Aisling</li>
-      <li>Fall   2022 `|` Prof. Downs, Justin</li>
+      <li><span style="font-size: 15px;">Fall   2021 `|` Prof. Winston, Aisling</span></li>
+      <li><span style="font-size: 15px;">Fall   2022 `|` Prof. Downs, Justin</span></li>
     </ul>
   </li>
 </ul>
