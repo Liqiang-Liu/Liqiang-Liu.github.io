@@ -29,9 +29,9 @@ redirect_from:
 <ul class="custom-bullet"> 
   <li> <span style="font-size: 16px;">Microeconomic Theory</span>
     <ul class="custom-bullet">
-      &nbsp;&nbsp;<li><span style="font-size: 14px;">Fall   2018 `|` Prof. Sean Fahle</span></li>
-      &nbsp;&nbsp;<li>Spring 2019 `|` Prof. Zhiqiang Liu</li>
-      &nbsp;&nbsp;<li>Fall   2019 `|` Prof. Sean Fahle</li>
+      <li><span style="font-size: 14px;">Fall   2018 `|` Prof. Sean Fahle</span></li>
+      <li>Spring 2019 `|` Prof. Zhiqiang Liu</li>
+      <li>Fall   2019 `|` Prof. Sean Fahle</li>
      </ul>
   </li>
   <li><span style="font-size: 16px;">Econometrics (Master)</span>
