@@ -12,9 +12,11 @@ redirect_from:
 <iframe src="/files/cv.pdf" width="80%" height="500" frameborder="no" marginwidth="0" marginheight="0">
 </iframe>
 
-Download my CV <span style="color: #0072bb">[Here]</span>(https://liqiang-liu.github.io/files/cv.pdf)
+Download my CV <span <a href="https://liqiang-liu.github.io/files/cv.pdf" style="text-decoration:none;"><span style="color:#0072bb"><font size="3">[Here]</font></span></a></span>
+
 
 <!--
+Download my CV <span style="color: #0072bb">[Here]</span>(https://liqiang-liu.github.io/files/cv.pdf)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
