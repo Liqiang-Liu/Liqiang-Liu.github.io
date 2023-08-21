@@ -22,7 +22,9 @@ redirect_from:
     margin-right: 1em; /* Adjust this value to control the spacing */
 }
 </style>
+
 <br>
+
 <span style="font-size: 16px;"> <span style="color:Navy;"> Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo </span> | (Fall 2018 – Spring 2022)</span>
 <ul class="custom-bullet"> 
   <li> <span style="font-size: 16px;">Microeconomic Theory</span>
