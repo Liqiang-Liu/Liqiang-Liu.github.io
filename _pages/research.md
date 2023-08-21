@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: 
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,6 +8,8 @@ redirect_from:
 ---
 <br/> 
 
+# <center> Research </center>
+- - -
 
 **Working Papers**<br/>
 <span style="font-size: 16px; font-family: 'CMU Bright';">“Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from Economics Discipline”</span> <span style="color:teal"><font size="3">[Job Market Paper]</font></span><br/>
