@@ -7,6 +7,11 @@ redirect_from:
   - /teaching.html
 ---
 
+<span style="font-size: 14px;"> <span style="color:#fafcff">Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo</span> | (Fall 2018 – Spring 202022)</span>
+
+
+
+
 <style>
 .custom-bullet {
     list-style-type: none;
@@ -20,8 +25,6 @@ redirect_from:
 }
 </style>
 
-
-<span style="font-size: 14px;"> <span style="color:#fafcff">Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo</span> | (Fall 2018 – Spring 202022)</span>
 
 <ul class="custom-bullet"> 
 <li> Microeconomic Theory
