@@ -24,7 +24,6 @@ redirect_from:
 }
 </style>
 
-<br>
 
 <span style="font-size: 17px;"><strong>Full-time Job</strong></span>
 <ul class="custom-bullet">
