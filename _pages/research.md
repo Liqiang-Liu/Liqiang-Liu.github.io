@@ -26,7 +26,7 @@ redirect_from:
 </style>
 
 **Working Papers**<br/>
-<span style="font-size: 16px; font-family: 'CMU Bright', sans-serif;">“Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from Economics Discipline”</span> <a href="https://liqiang-liu.github.io/assets/files/jmp.pdf" style="text-decoration:none;"><span style="color:teal"><font size="3">[Job Market Paper]</font></span></a><br/>
+<span style="font-size: 16px; font-family: 'CMU Bright';">“Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from Economics Discipline”</span> <a href="https://liqiang-liu.github.io/assets/files/jmp.pdf" style="text-decoration:none;"><span style="color:teal"><font size="3">[Job Market Paper]</font></span></a><br/>
 <small>[ <a href="#/" onclick="visib('jmp')"><span style="color:teal">Abstract</span></a> | [<span style="color:teal">Draft</span>][JMP] ] </small>
 
 <div id="jmp" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
