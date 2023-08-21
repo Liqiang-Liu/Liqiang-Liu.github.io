@@ -19,16 +19,16 @@ redirect_from:
 
 .image-container img {
     max-width: 100%;
-    height: 100px;
+    height: 150px;
     margin-bottom: 5px; /* Optional margin between image and text */
 }
 </style>
 
 <div class="image-container">
   <img src="/images/background.jpg" alt="Image">
-  <p>I am a Ph.D. Candidate in Economics at <a href="https://www.buffalo.edu/" style="text-decoration:none;"><span style="color: #0072bb">The State University of New York at Buffalo</span></a>. My primary research field is applied microeconomics, with a focus on labor economics and health economics. I am also interested in studying the formation and impact of social networks.
+  <p>I am a Ph.D. Candidate in Economics at <a href="https://www.buffalo.edu/" style="text-decoration:none;"><span style="color: #0072bb">The State University of New York at Buffalo</span></a>. My primary research field is applied microeconomics, with a focus on labor economics and health economics. I am also interested in studying the formation and impact of social networks.<br>
 
-  During Fall 2022 to Spring 2023, I was a visiting PhD student in the department of Economics at Boston University.
+  During Fall 2022 to Spring 2023, I was a visiting PhD student in the department of Economics at Boston University.<br>
 
   I am on the job market in the 2023-2024 academic year and will be available for interviews.</p>
 
