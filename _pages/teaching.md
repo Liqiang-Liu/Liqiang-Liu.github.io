@@ -29,7 +29,7 @@ redirect_from:
 <ul class="custom-bullet"> 
 <li> Microeconomic Theory
   <ul class="custom-bullet">
-    <li>Fall   2018 `|` Prof. Fahle, Sean
+    <li>Fall   2018 `|` Prof. Fahle, Sean</li>
     <li>Spring 2019 `|` Prof. Liu, Zhiqiang</li>
     <li>Fall   2019 `|` Prof. Fahle, Sean</li>
    </ul>
