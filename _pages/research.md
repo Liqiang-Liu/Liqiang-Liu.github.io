@@ -28,7 +28,7 @@ This paper studies the impacts of initial labor market conditions on young econo
 [JMP]:{{ site.baseurl }}{% link assets/files/jmp.pdf %}
 
 
-“Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Health Outcomes Over Life Cycle”<br/>
+<span style="font-size: 16px;">“Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Health Outcomes Over Life Cycle”</span><br/>
 <small>[ <a href="#/" onclick="visib('pill')"><span style="color:teal">Abstract</span></a>] </small>
 
 <div id="pill" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
@@ -53,11 +53,11 @@ This paper investigates the effects of early legal access to oral contraceptives
 
 
 
-### Works in Progress
+**Works in Progress**<br/>
 
-“Systemic Bias in US Economics Departments: The Role of Homophily” <span style="font-size:14px;"> *with Randall Ellis, Changwoo Lee, and Jiarui Wang*</span> <br>
+<span style="font-size: 16px;">“Systemic Bias in US Economics Departments: The Role of Homophily” <span style="font-size:14px;"> *with Randall Ellis, Changwoo Lee, and Jiarui Wang*</span></span> <br>
 
-“Measuring Dollar Risk: A Natural Language Processing Approach” <span style="font-size:14px;"> *with Jiarui Wang*</span>
+<span style="font-size: 16px;">“Measuring Dollar Risk: A Natural Language Processing Approach” <span style="font-size:14px;"> *with Jiarui Wang*</span></span>
 
 <!--
 ### Working Papers
