@@ -4,7 +4,7 @@ main:
 #    url: /about/
 
   - title: "CV"
-    url: /files/Liqiang_Liu_CV.pdf
+    url: /assets/files/Liqiang_Liu_CV.pdf
 
   - title: "Research"
     url: /research/
