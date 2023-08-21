@@ -13,7 +13,7 @@ body {
     background-image: url('/images/background.jpg');
     background-size: 800px 100px; /* Set the width and height values as needed */
     background-repeat: no-repeat; /* Prevent image repetition */
-    background-position: center center; /* Adjust the position as needed */
+    background-position: 40% 33%; /* Adjust the position as needed */
 }
 </style>
 
