@@ -1,11 +1,15 @@
 ---
 permalink: /interests/
-title: "Interests"
+title: 
 author_profile: true
 redirect_from: 
   - /md/
   - /interests.html
 ---
+<br/> 
+
+# <center> Interests </center>
+- - -
 
 <style>
 .custom-bullet {
