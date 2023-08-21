@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<span style="color:white;"> space space space </span> 
 
 I am a Ph.D. Candidate in Economics at <a href="https://www.buffalo.edu/" style="text-decoration:none;"><span style="color: #0072bb">The State University of New York at Buffalo</span></a>. My primary research field is applied microeconomics, with a focus on labor economics and health economics. I am also interested in studying the formation and impact of social networks.
 
