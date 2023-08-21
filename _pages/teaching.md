@@ -22,7 +22,7 @@ redirect_from:
 
 <br>
 
-<span style="font-size: 18px;"> <span style="color:#0072bb;"> **Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo** </span> </span>
+<span style="font-size: 17px;"> <span style="color:#0072bb;"> **Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo** </span> </span>
 <ul class="custom-bullet"> 
   <span style="font-size: 16px;"><strong>Microeconomic Theory (Undergraduate Level)</strong></span>
     <ul class="custom-bullet">
