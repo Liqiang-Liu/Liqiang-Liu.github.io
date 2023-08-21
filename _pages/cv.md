@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe src="/files/cv.pdf" width="100%" height="500" frameborder="no" marginwidth="0" marginheight="0">
+</iframe>
+
 Download my CV [<span style="color: #0072bb">Here<\span>](https://liqiang-liu.github.io/files/cv.pdf)
 
 <!--
