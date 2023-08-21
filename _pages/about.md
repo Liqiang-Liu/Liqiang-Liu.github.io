@@ -26,11 +26,11 @@ redirect_from:
   <img src="/images/background.jpg" alt="Image">
   <p>I am a Ph.D. Candidate in Economics at <a href="https://www.buffalo.edu/" style="text-decoration:none;"><span style="color: #0072bb">The State University of New York at Buffalo</span></a>. My primary research field is applied microeconomics, with a focus on labor economics and health economics. I am also interested in studying the formation and impact of social networks.</p>
 
-  <p>During Fall 2022 to Spring 2023, I was a visiting PhD student in the department of Economics at Boston University.</p>
+  <p>During Fall 2022 to Spring 2023, I was a visiting PhD student in the department of Economics at <a href="https://www.bu.edu/econ/" style="text-decoration:none;"><span style="color: Maroon">Boston University</span></a>.</p>
 
   <p>I am on the job market in the 2023-2024 academic year and will be available for interviews.</p>
 
-</div>
+</div> 
 
 
 
