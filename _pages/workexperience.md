@@ -37,7 +37,7 @@ redirect_from:
 
 <span style="font-size: 17px;"><strong>Internship</strong></span>
 <ul class="custom-bullet">
-  <span style="font-size: 16px;"><strong>Asset Management Intern, Xi’an Maike Futures Brokerage Co., Ltd., Xi’an, China [03/2015 - 05/2015]</strong></span>
+  <span style="font-size: 16px;"><strong>Asset Management Intern, Xi’an Maike Futures Brokerage Co., Ltd., Xi’an, China [03/2015 - 06/2015]</strong></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">Collected and compiled data on economic events from major economies</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">Analyzed the effects of economic events on the futures market</span></li>
