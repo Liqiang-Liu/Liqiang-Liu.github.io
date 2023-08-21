@@ -20,44 +20,39 @@ redirect_from:
 
 .custom-bullet li::before {
     content: "\25A0"; /* Unicode character for a small square */
-    font-size: 10px; /* Adjust this value to change the icon size */
+    font-size: 5px; /* Adjust this value to change the icon size */
     margin-right: 0.5em;
 }
 </style>
 
-
 <ul class="custom-bullet"> 
-<li> Microeconomic Theory
-  <ul class="custom-bullet">
-    <li>Fall   2018 `|` Prof. Fahle, Sean</li>
-    <li>Spring 2019 `|` Prof. Liu, Zhiqiang</li>
-    <li>Fall   2019 `|` Prof. Fahle, Sean</li>
-   </ul>
-</li>
-
-<li>Econometrics (Master)
-  <ul class="custom-bullet">
-    <li>Spring 2020 `|` Prof. Revankar, Nagesh</li>
-  </ul>
-</li>
-
-<li>Labor Economics (Master)
-  <ul class="custom-bullet">
-    <li>Spring 2020 `|` Prof. Rao, Neel</li>
-  </ul>
-</li>
-
-<li>Econometrics (Ph.D.)
-  <ul class="custom-bullet">
-    <li>Spring 2021 `|` Prof. Li, Mingliang</li>
-    <li>Spring 2022 `|` Prof. Li, Mingliang</li>
-  </ul>
-</li>
-
-<li>Intro to Microeconomics
-  <ul class="custom-bullet">
-    <li>Fall   2021 `|` Prof. Winston, Aisling</li>
-    <li>Fall   2022 `|` Prof. Downs, Justin</li>
-  </ul>
-</li>
+  <li> Microeconomic Theory
+    <ul class="custom-bullet">
+      <li>Fall   2018 `|` Prof. Fahle, Sean</li>
+      <li>Spring 2019 `|` Prof. Liu, Zhiqiang</li>
+      <li>Fall   2019 `|` Prof. Fahle, Sean</li>
+     </ul>
+  </li>
+  <li>Econometrics (Master)
+    <ul class="custom-bullet">
+      <li>Spring 2020 `|` Prof. Revankar, Nagesh</li>
+    </ul>
+  </li>
+  <li>Labor Economics (Master)
+    <ul class="custom-bullet">
+      <li>Spring 2020 `|` Prof. Rao, Neel</li>
+    </ul>
+  </li>
+  <li>Econometrics (Ph.D.)
+    <ul class="custom-bullet">
+      <li>Spring 2021 `|` Prof. Li, Mingliang</li>
+      <li>Spring 2022 `|` Prof. Li, Mingliang</li>
+    </ul>
+  </li>
+  <li>Intro to Microeconomics
+    <ul class="custom-bullet">
+      <li>Fall   2021 `|` Prof. Winston, Aisling</li>
+      <li>Fall   2022 `|` Prof. Downs, Justin</li>
+    </ul>
+  </li>
 </ul>
