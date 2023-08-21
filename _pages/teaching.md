@@ -26,16 +26,16 @@ redirect_from:
 <span style="color:white;"> space space space </span> 
 
 
-<span style="font-size: 16px;"> <span style="color:Navy;"> **Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo** </span> | (Fall 2018 – Spring 2022)</span>
+<span style="font-size: 16px;"> <span style="color:Navy;"> **Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo** </span> </span>
 <ul class="custom-bullet"> 
-  <li> <span style="font-size: 16px;">**Microeconomic Theory (Undergraduate)**</span>
+  <li> <span style="font-size: 16px;"> __Microeconomic Theory (Undergraduate)__ </span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px;">Fall   2018 `|` Prof. Sean Fahle</span></li>
       <li><span style="font-size: 15px;">Spring 2019 `|` Prof. Zhiqiang Liu</span></li>
       <li><span style="font-size: 15px;">Fall   2019 `|` Prof. Sean Fahle</span></li>
      </ul>
   </li>
-  <li><span style="font-size: 16px;">**Econometrics (Master)**</span>
+  <li><span style="font-size: 16px;"> __Econometrics (Master)__ </span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px;">Spring 2020 `|` Prof. Revankar, Nagesh</span></li>
     </ul>
