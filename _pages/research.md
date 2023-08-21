@@ -34,6 +34,23 @@ This paper studies the impacts of initial labor market conditions on young econo
   <font size="3">This paper investigates the effects of early legal access to oral contraceptives on women’s life-cycle health outcomes (e.g., mortality and self-reported disability) using the plausible quasi-experimental design introduced by Goldin and Katz (2002). The identification leverages the cross-state and cross-cohort variation in state consent laws. Utilizing the difference-in-differences approach, our results suggest that early access to the pill reduces women's mortality rates during their 30s and 40s, and the improvement in health is primarily driven by the decline in mortality rate caused by cancer, diabetes, heart disease, and cerebrovascular disease. Also, we find that women who would have had early access to the pill are, on average, more likely to have self-reported physical disability during their late 50s and 60s. Additionally, our analysis reveals that non-white women experience greater benefits from early pill access. Our mechanism analysis identifies four potential channels: early access to the pill (1) rises in college completion, (2) increases (decreases) in oral contraceptive-related mortality, (3) increases (decreases) in health behavior measures, and (4) enhances life expectancy.</font>
 </details>
 
+
+[//]: This java script is the button to show abstract
+<script>
+ function visib(id) {
+  var x = document.getElementById(id);
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+
+
+
 ### Works in Progress
 
 “Systemic Bias in US Economics Departments: The Role of Homophily” <span style="font-size:14px;"> *with Randall Ellis, Changwoo Lee, and Jiarui Wang*</span> <br>
