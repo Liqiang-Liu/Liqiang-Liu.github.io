@@ -23,7 +23,7 @@ redirect_from:
 
 <br>
 <ul class="custom-bullet">
-<span style="font-size: 17px;"> **Full-time Job** </span>
+<span style="font-size: 17px;"> **Full-time Job** </span><br>
   <span style="font-size: 16px;"><strong>Procurement Engineer, Shenzhen Union Technology Co., Ltd., Shenzhen, China [07/2015 - 07/2017]</strong></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">Conducted economic cycle research to analyze material inventory planning and procurement</span></li>
@@ -32,7 +32,7 @@ redirect_from:
      </ul>
 <br>
 
-<span style="font-size: 17px;"> **Internship** </span>
+<span style="font-size: 17px;"> **Internship** </span><br>
   <span style="font-size: 16px;"><strong>Asset Management Intern, Xi’an Maike Futures Brokerage Co., Ltd., Xi’an, China [03/2015 - 05/2015]</strong></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">Collected and compiled data on economic events from major economies</span></li>
