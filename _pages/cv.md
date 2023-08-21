@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 <iframe src="/files/Liqiang_Liu_CV.pdf" width="80%" height="500" frameborder="no" marginwidth="0" marginheight="0">
 </iframe>
@@ -16,6 +15,8 @@ Download my CV <a href="https://liqiang-liu.github.io/files/Liqiang_Liu_CV.pdf" 
 
 
 <!--
+
+{% include base_path %}
 Download my CV <span style="color: #0072bb">[Here]</span>(https://liqiang-liu.github.io/files/cv.pdf)
 Education
 ======
