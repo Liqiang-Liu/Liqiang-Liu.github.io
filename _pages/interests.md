@@ -24,7 +24,6 @@ redirect_from:
 }
 </style>
 
-<br>
 
 <ul class="custom-bullet">
 <span style="font-size: 18px;"><strong>1. Investment</strong></span><br>
