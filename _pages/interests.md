@@ -28,12 +28,20 @@ redirect_from:
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; ">My investment principle 1: life-changing opportunities emerge as disaster strikes</span></li>
       <li><span style="font-size: 15px; ">My investment principle 2: Being extremely critical when making decisions</span></li>
-      <li><span style="font-size: 15px; font-family: monospace;">My favorite investors: Warren Buffett and Ray Dalio</span></li>
-      <li><span style="font-size: 15px; font-family: monospace;">My favorite podcast: All-In Podcast</span></li>
+      <li><span style="font-size: 15px; ">My favorite investors: Warren Buffett and Ray Dalio</span></li>
+      <li><span style="font-size: 15px; ">My favorite podcast: All-In Podcast</span></li>
      </ul>
-  </ul>
+</ul>
  
-
+<span style="font-size: 17px;"><strong>2. Entrepreneurship</strong></span>
+<ul class="custom-bullet">
+  <span style="font-size: 16px;"><strong>I have a strong passion for entrepreneurship and a keen desire to become an entrepreneur</strong></span>
+    <ul class="custom-bullet">
+      <li><span style="font-size: 15px; ">My motivation: I aim to be a philanthropist, and entrepreneurship offers a swift route to realize this ambition</span></li>
+      <li><span style="font-size: 15px; ">My belief: An entrepreneur's enduring success is determined by their product, not marketing</span></li>
+      <li><span style="font-size: 15px; ">My favorite entrepreneurs: Steve Jobs and Elon Musk</span></li> 
+     </ul>
+</ul>
 
 
 
