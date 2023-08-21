@@ -7,8 +7,6 @@ redirect_from:
   - /teaching.html
 ---
 
-<br/> 
-
 # <center> Teaching </center>
 - - -
 
