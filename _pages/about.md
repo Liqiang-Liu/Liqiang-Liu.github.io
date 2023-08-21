@@ -12,6 +12,7 @@ redirect_from:
 body {
     background-image: url('/images/background.jpg');
     background-size: cover;
+    background-position: center top; /* Adjust the position as needed */
 }
 </style>
 
