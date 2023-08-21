@@ -24,7 +24,9 @@ redirect_from:
 </style>
 
 <span style="color:white;"> space space space </span> 
+
 <span style="color:white;"> space space space </span> 
+
 <span style="font-size: 16px;"> <span style="color:Navy;"> Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo </span> | (Fall 2018 – Spring 2022)</span>
 <ul class="custom-bullet"> 
   <li> <span style="font-size: 16px;">Microeconomic Theory</span>
