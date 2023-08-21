@@ -12,7 +12,7 @@ redirect_from:
 <style>
 .image-container {
     display: inline-block;
-    text-align: center;
+    text-align: left;
 }
 
 .image-container img {
