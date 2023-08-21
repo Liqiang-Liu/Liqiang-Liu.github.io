@@ -19,11 +19,11 @@ redirect_from:
 .custom-bullet li::before {
     content: "\25A0"; /* Unicode character for a small square */
     font-size: 8px; /* Adjust this value to change the icon size */
-    margin-right: 0.5em;
+    margin-right: 1em; /* Adjust this value to control the spacing */
 }
 </style>
 
-<span style="font-size: 18px;"> <span style="color:Navy;"> Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo </span> | (Fall 2018 – Spring 202022)</span>
+<span style="font-size: 16px;"> <span style="color:Navy;"> Graduate Teaching Assistant, Department of Economics, SUNY University at Buffalo </span> | (Fall 2018 – Spring 2022)</span>
 
 <ul class="custom-bullet"> 
   <li> Microeconomic Theory
