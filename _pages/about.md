@@ -20,7 +20,7 @@ redirect_from:
 .image-container img {
     max-width: 100%;
     height: 100px;
-    margin-right: 5px; /* Optional margin between image and text */
+    margin-bottom: 5px; /* Optional margin between image and text */
 }
 </style>
 
