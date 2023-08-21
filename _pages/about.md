@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-<br><br><br>
-
 <style>
 .image-container {
     display: inline-block;
@@ -19,7 +17,7 @@ redirect_from:
 
 .image-container img {
     max-width: 100%;
-    height: 150px;
+    height: 200px;
     margin-bottom: 5px; /* Optional margin between image and text */
 }
 </style>
