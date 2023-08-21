@@ -26,7 +26,8 @@ redirect_from:
 <ul class="custom-bullet">
   <span style="font-size: 16px;"><strong>I am an experienced equity investor knowledgeable in both technicals and fundamentals</strong></span>
     <ul class="custom-bullet">
-      <li><span style="font-size: 15px; font-family: monospace;">My investment principle: life-changing opportunities emerge as disaster strikes</span></li>
+      <li><span style="font-size: 15px; font-family: monospace;">My investment principle 1: life-changing opportunities emerge as disaster strikes</span></li>
+      <li><span style="font-size: 15px; font-family: monospace;">Being extremely critical when making decisions</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">My favorite investors: Warren Buffett and Ray Dalio</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">My favorite podcast: All-In Podcast</span></li>
      </ul>
