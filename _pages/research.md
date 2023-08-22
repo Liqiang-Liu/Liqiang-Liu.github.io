@@ -12,7 +12,7 @@ redirect_from:
 - - -
 
 **Working Papers**<br/>
-<span style="font-size: 17px; font-family: 'CMU Bright';">“Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from Economics Discipline”  (<font size="3"><span style="color:gray">Job Market Paper</span></font>)</span><br/>
+<span style="font-size: 18px; font-family: 'CMU Bright';">“Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from Economics Discipline”  (<font size="3"><span style="color:gray">Job Market Paper</span></font>)</span><br/>
 <small>[ <a href="#/" onclick="visib('jmp')"><span style="color:teal">Abstract</span></a> | [<span style="color:teal">Draft</span>][JMP] ] </small>
 
 <div id="jmp" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
@@ -22,7 +22,7 @@ This paper studies the impacts of initial labor market conditions on young econo
 [JMP]:{{ site.baseurl }}{% link assets/files/jmp.pdf %}
 
 
-<span style="font-size: 17px; font-family: 'CMU Serif', serif;">“Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Health Outcomes Over Life Cycle”</span><br/>
+<span style="font-size: 18px; font-family: 'CMU Bright';">“Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Health Outcomes Over Life Cycle”</span><br/>
 <small>[ <a href="#/" onclick="visib('pill')"><span style="color:teal">Abstract</span></a> ] </small>
 
 <div id="pill" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
@@ -47,9 +47,9 @@ This paper investigates the effects of early legal access to oral contraceptives
 
 
 **Works in Progress**<br/>
-<span style="font-size: 17px; font-family: 'CMU Serif', serif;">“Systemic Bias in US Economics Departments: The Role of Homophily” <span style="font-size:14px;"> *with Randall Ellis, Changwoo Lee, and Jiarui Wang*</span></span> <br/>
+<span style="font-size: 18px; font-family: 'CMU Bright';">“Systemic Bias in US Economics Departments: The Role of Homophily” <span style="font-size:16px;"> *with Randall Ellis, Changwoo Lee, and Jiarui Wang*</span></span> <br/>
 
-<span style="font-size: 17px; font-family: 'CMU Serif', serif;">“Measuring Dollar Risk: A Natural Language Processing Approach” <span style="font-size:14px;"> *with Jiarui Wang*</span></span>
+<span style="font-size: 18px; font-family: 'CMU Bright';">“Measuring Dollar Risk: A Natural Language Processing Approach” <span style="font-size:16px;"> *with Jiarui Wang*</span></span>
 
 <!--
 <style>
