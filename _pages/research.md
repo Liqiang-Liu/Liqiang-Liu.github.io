@@ -12,7 +12,7 @@ redirect_from:
 - - -
 
 **Working Papers**<br/>
-<span style="font-size: 17px; font-family: 'CMU Bright';">“Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from Economics Discipline” - - - <span style="color:teal">Job Market Paper</span> - - -</span><br/>
+<span style="font-size: 17px; font-family: 'CMU Bright';">“Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from Economics Discipline”  - - - <font size="3"><span style="color:teal">Job Market Paper</span></font> - - -</span><br/>
 <small>[ <a href="#/" onclick="visib('jmp')"><span style="color:teal">Abstract</span></a> | [<span style="color:teal">Draft</span>][JMP] ] </small>
 
 <div id="jmp" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
