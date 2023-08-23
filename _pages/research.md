@@ -49,6 +49,8 @@ This paper investigates the effects of early legal access to oral contraceptives
 **Works in Progress**<br/>
 <span style="font-size: 18px; font-family: 'CMU Bright';">“Systemic Bias in US Economics Departments: The Role of Homophily” <span style="font-size:16px;"> *with Randall Ellis, Changwoo Lee, and Jiarui Wang*</span></span> <br/>
 
+<span style="font-size: 18px; font-family: 'CMU Bright';">“Social Capital and Mobility in Academia: Evidence from Top50 U.S. Economics Departments” <span style="font-size:16px;">
+
 <span style="font-size: 18px; font-family: 'CMU Bright';">“Measuring Dollar Risk: A Natural Language Processing Approach” <span style="font-size:16px;"> *with Jiarui Wang*</span></span>
 
 <!--
