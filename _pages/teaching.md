@@ -43,19 +43,17 @@ redirect_from:
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">Spring 2020 -- Prof. Neel Rao</span></li>
     </ul>
-  
+
+  <span style="font-size: 16px;"><strong>Intro to Microeconomics (Undergraduate Level)</strong></span>
+    <ul class="custom-bullet">
+      <li><span style="font-size: 15px; font-family: monospace;">Fall   2021 -- Prof. Justin Downs</span></li>
+    </ul>
+    
   <span style="font-size: 16px;"><strong>Econometrics (Ph.D. Level)</strong></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">Spring 2021 -- Prof. Mingliang Li</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">Spring 2022 -- Prof. Mingliang Li</span></li>
     </ul>
-  
-  <span style="font-size: 16px;"><strong>Intro to Microeconomics (Undergraduate Level)</strong></span>
-    <ul class="custom-bullet">
-      <li><span style="font-size: 15px; font-family: monospace;">Fall   2021 -- Prof. Aisling Winston</span></li>
-      <li><span style="font-size: 15px; font-family: monospace;">Fall   2022 -- Prof. Justin Downs</span></li>
-    </ul>
-  
 </ul>
 
 
