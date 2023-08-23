@@ -23,7 +23,7 @@ redirect_from:
 </style>
 
 <div class="image-container">
-  <img src="/images/background.jpg" alt="Image">
+  <img src="/images/background1.jpg" alt="Image">
   <p><span style="font-family: 'CMU Bright';">I am a Ph.D. Candidate in Economics at <a href="https://www.buffalo.edu/" style="text-decoration:none;"><span style="color: #1c39bb">University at Buffalo -- The State University of New York</span></a>. My primary research field is applied microeconomics, with a focus on labor economics and health economics. I am also interested in studying the formation and impact of social networks.</span></p>
 
   <p><span style="font-family: 'CMU Bright';">During Fall 2022 to Spring 2023, I was a visiting PhD student in the department of Economics at <a href="https://www.bu.edu/econ/" style="text-decoration:none;"><span style="color: #800000">Boston University</span></a>.</span></p>
