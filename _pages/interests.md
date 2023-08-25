@@ -40,7 +40,7 @@ redirect_from:
 
 <ul class="custom-bullet">
 <span style="font-size: 18px;"><strong>2. Entrepreneurship</strong></span><br>
-  <span style="font-size: 16px;"><strong>I have a strong passion for entrepreneurship and a keen desire to become an entrepreneur</strong></span>
+  <span style="font-size: 16px;"><strong>I have a strong passion for entrepreneurship, despite my limited experience</strong></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">My motivation: I aim to be a philanthropist, and entrepreneurship offers a swift route to realize this ambition</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">My belief: An entrepreneur's enduring success is determined by their product, not marketing</span></li>
