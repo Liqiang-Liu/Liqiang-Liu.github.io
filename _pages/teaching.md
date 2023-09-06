@@ -25,9 +25,9 @@ redirect_from:
 </style>
 
 
-<span style="font-size: 17px;"> <strong>Graduate Teaching Assistant, Department of Economics,</strong> <span style="color:teal;"> <strong>SUNY University at Buffalo</strong> </span> </span>
+<span style="font-size: 17px;"> <strong>Graduate Teaching Assistant, Department of Economics,</strong> <span style="color:teal;"> <strong>University at Buffalo, SUNY</strong> </span> </span>
 <ul class="custom-bullet"> 
-  <span style="font-size: 16px;"><strong>Microeconomic Theory (Master or Undergraduate Level)</strong></span>
+  <span style="font-size: 16px;"><strong>Microeconomic Theory (Master Level)</strong></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">Fall   2018 -- Prof. Sean Fahle</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">Spring 2019 -- Prof. Zhiqiang Liu</span></li>
