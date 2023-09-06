@@ -30,8 +30,8 @@ redirect_from:
   <span style="font-size: 16px;"><strong>Procurement Engineer, Shenzhen Union Technology Co., Ltd., Shenzhen, China [07/2015 - 07/2017]</strong></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">Conducted economic cycle research to analyze material inventory planning and procurement</span></li>
-      <li><span style="font-size: 15px; font-family: monospace;">Introduced new suppliers from Mainland China and other regions after thorough evaluation</span></li>
-      <li><span style="font-size: 15px; font-family: monospace;">Negotiated raw material prices and monitored subsequent material deliveries</span></li>
+      <li><span style="font-size: 15px; font-family: monospace;">Identified and onboarded new suppliers from Mainland China and other regions through comprehensive evaluation</span></li>
+      <li><span style="font-size: 15px; font-family: monospace;">Negotiated raw materials prices with experienced suppliers and monitored subsequent material deliveries</span></li>
      </ul>
   </ul>
   
