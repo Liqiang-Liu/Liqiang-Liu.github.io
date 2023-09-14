@@ -196,7 +196,7 @@ figure {
 
   img {
     width: 100%;
-    border-radius: $border-radius;
+    border-radius: 0;
     -webkit-transition: $global-transition;
     transition: $global-transition;
   }
