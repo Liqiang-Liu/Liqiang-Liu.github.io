@@ -22,6 +22,7 @@
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
+        border-radius: 0; /* Add this line to remove the rounded shape */
       }
     }
   }
