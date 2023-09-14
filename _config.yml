@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile.JPG # Open Graph/Twitter default site image
+og_image                 : profile.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Liqiang (Stephen) Liu"
-  avatar           : "profile.JPG"
+  avatar           : "profile.jpg"
   bio              : "Econ Ph.D. Candidate at University at Buffalo, SUNY"
   location         : "Boston, MA"
   employer         :
