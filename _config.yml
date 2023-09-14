@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Liqiang (Stephen) Liu"
 title_separator          : "-"
 name                     : &name "Liqiang (Stephen) Liu"
-description              : &description "Econ Ph.D. Candidate at SUNY University at Buffalo"
+description              : &description "Econ Ph.D. Candidate at University at Buffalo, SUNY"
 url                      : https://liqiang-liu.github.io/ #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liqiang-liu/liqiang-liu.github.io"  #"academicpages/academicpages.github.io" 
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : profile.png # Open Graph/Twitter default site image
+og_image                 : profile.JPG # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Liqiang Liu"
-  avatar           : "profile.png"
-  bio              : "Econ Ph.D. Candidate at SUNY University at Buffalo"
+  avatar           : "profile.JPG"
+  bio              : "Econ Ph.D. Candidate at University at Buffalo, SUNY"
   location         : "Boston, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
