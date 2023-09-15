@@ -36,7 +36,6 @@ redirect_from:
      </ul>
   </ul>
   
-<br>
 
 
 <ul class="custom-bullet">
