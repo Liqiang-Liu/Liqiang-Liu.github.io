@@ -27,7 +27,7 @@ redirect_from:
 
 
 <ul class="custom-bullet">
-  <span style="font-size: 17px;"><strong>Procurement Engineer, Shenzhen Union Technology Co., Ltd., Shenzhen, China [07/2015 - 07/2017]</strong></span><br>
+  <span style="font-size: 16px;"><strong>Procurement Engineer, Shenzhen Union Technology Co., Ltd., Shenzhen, China [07/2015 - 07/2017]</strong></span><br>
   <span style="font-size: 16px;"><strong>Full-time Job</strong></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">Conducted economic cycle research to analyze material (i.e., PCB) inventory planning and procurement, effectively ensuring PCB supply during peak seasons</span></li>
