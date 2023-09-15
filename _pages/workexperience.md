@@ -31,7 +31,7 @@ redirect_from:
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">Conducted economic cycle research to analyze material (i.e., PCB) inventory planning and procurement, effectively ensuring PCB supply during peak seasons</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">Searched and onboarded two new suppliers through comprehensive evaluation</span></li>
-      <li><span style="font-size: 15px; font-family: monospace;">Negotiated raw materials prices with experienced suppliers and monitored subsequent material deliveries</span></li>
+      <li><span style="font-size: 15px; font-family: monospace;">Negotiated materials prices with experienced suppliers and monitored subsequent deliveries</span></li>
      </ul>
   </ul>
   
