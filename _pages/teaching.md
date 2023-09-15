@@ -28,11 +28,11 @@ redirect_from:
 <span style="font-size: 17px;"> <strong>Teaching Assistant, University at Buffalo, SUNY,</strong> <strong> 2018 - 2022</strong> </span><br>
 <ul class="custom-bullet"> 
     <ul class="custom-bullet">
-      <li><span style="font-size: 15px; font-family: monospace;">Microeconomic Theory (Master Level) Fall 2018, Spring 2019, Fall 2019</span></li>
-      <li><span style="font-size: 15px; font-family: monospace;">Econometrics (Master Level) Spring 2020</span></li>
-      <li><span style="font-size: 15px; font-family: monospace;">Labor Economics (Master Level) Fall 2020</span></li>
-      <li><span style="font-size: 15px; font-family: monospace;">Intro to Microeconomics (Undergraduate Level) Fall 2021</span></li>
-      <li><span style="font-size: 15px; font-family: monospace;">Econometrics (Ph.D. Level) Spring 2021, Spring 2022</span></li>
+      <li><span style="font-size: 15px; font-family: monospace;">Microeconomic Theory (Master Level) -- Fall 2018, Spring 2019, Fall 2019</span></li>
+      <li><span style="font-size: 15px; font-family: monospace;">Econometrics (Master Level) -- Spring 2020</span></li>
+      <li><span style="font-size: 15px; font-family: monospace;">Labor Economics (Master Level) -- Fall 2020</span></li>
+      <li><span style="font-size: 15px; font-family: monospace;">Intro to Microeconomics (Undergraduate Level) -- Fall 2021</span></li>
+      <li><span style="font-size: 15px; font-family: monospace;">Econometrics (Ph.D. Level) -- Spring 2021, Spring 2022</span></li>
      </ul>
 </ul>
 
