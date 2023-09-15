@@ -25,9 +25,9 @@ redirect_from:
 </style>
 
 
-<span style="font-size: 17px;"> <strong>Graduate Teaching Assistant, Department of Economics,</strong> <span style="color:#1c39bb;"> <strong>University at Buffalo, SUNY</strong> </span> </span>
+<span style="font-size: 17px;"> <strong>Graduate Teaching Assistant, Department of Economics,</strong> <span style="color:#1c39bb;"> <strong> 2018 - 2022</strong> </span> </span>
+<span style="font-size: 16px;"> <span style="color:#1c39bb;"> <strong>University at Buffalo, SUNY </strong> </span> </span>
 <ul class="custom-bullet"> 
-  <span style="font-size: 16px;"><strong>Microeconomic Theory (Master Level) Fall 2018, Spring 2019, Fall 2019</strong></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">Microeconomic Theory (Master Level) Fall 2018, Spring 2019, Fall 2019</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">Econometrics (Master Level) Spring 2020</span></li>
@@ -35,27 +35,6 @@ redirect_from:
       <li><span style="font-size: 15px; font-family: monospace;">Intro to Microeconomics (Undergraduate Level) Fall 2021</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">Econometrics (Ph.D. Level) Spring 2021, Spring 2022</span></li>
      </ul>
-  
-  <span style="font-size: 16px;"> <strong>Econometrics (Master Level)</strong></span>
-    <ul class="custom-bullet">
-      <li><span style="font-size: 15px; font-family: monospace;">Spring 2020 -- Prof. Nagesh Revankar</span></li>
-    </ul>
-  
-  <span style="font-size: 16px;"><strong>Labor Economics (Master Level)</strong></span>
-    <ul class="custom-bullet">
-      <li><span style="font-size: 15px; font-family: monospace;">Spring 2020 -- Prof. Neel Rao</span></li>
-    </ul>
-
-  <span style="font-size: 16px;"><strong>Intro to Microeconomics (Undergraduate Level)</strong></span>
-    <ul class="custom-bullet">
-      <li><span style="font-size: 15px; font-family: monospace;">Fall   2021 -- Prof. Justin Downs</span></li>
-    </ul>
-    
-  <span style="font-size: 16px;"><strong>Econometrics (Ph.D. Level)</strong></span>
-    <ul class="custom-bullet">
-      <li><span style="font-size: 15px; font-family: monospace;">Spring 2021 -- Prof. Mingliang Li</span></li>
-      <li><span style="font-size: 15px; font-family: monospace;">Spring 2022 -- Prof. Mingliang Li</span></li>
-    </ul>
 </ul>
 
 
