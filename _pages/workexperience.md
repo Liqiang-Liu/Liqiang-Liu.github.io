@@ -28,7 +28,7 @@ redirect_from:
 
 <ul class="custom-bullet">
   <span style="font-size: 16px;"><strong>Procurement Engineer, Shenzhen Union Technology Co., Ltd., Shenzhen, China [07/2015 - 07/2017]</strong></span><br>
-  <span style="font-size: 16px;"><strong>Full-time Job</strong></span>
+  <span style="font-size: 16px;"><strong>(Full-time)</strong></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">Conducted economic cycle research to analyze material (i.e., PCB) inventory planning and procurement, effectively ensuring PCB supply during peak seasons</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">Searched and onboarded two new suppliers through comprehensive evaluation</span></li>
@@ -38,9 +38,10 @@ redirect_from:
   
 <br>
 
-<span style="font-size: 17px;"><strong>Internship</strong></span>
+
 <ul class="custom-bullet">
-  <span style="font-size: 16px;"><strong>Asset Management Intern, Xi’an Maike Futures Brokerage Co., Ltd., Xi’an, China [03/2015 - 06/2015]</strong></span>
+  <span style="font-size: 16px;"><strong>Asset Management Intern, Xi’an Maike Futures Brokerage Co., Ltd., Xi’an, China [03/2015 - 06/2015]</strong></span><br>
+  <span style="font-size: 16px;"><strong>(Internship)</strong></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">Produced datasets on economic events from major economies</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">Analyzed the effects of economic events on the futures market</span></li>
