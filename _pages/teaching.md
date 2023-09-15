@@ -25,7 +25,7 @@ redirect_from:
 </style>
 
 
-<span style="font-size: 17px;"> <strong>Teaching Assistant, University at Buffalo, SUNY,</strong> <strong> [09/2018 - 05/2022]</strong> </span><br>
+<span style="font-size: 17px;"> <strong>Teaching Assistant, University at Buffalo, SUNY</strong> <strong> [09/2018 - 05/2022]</strong> </span><br>
 <ul class="custom-bullet"> 
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">Microeconomic Theory (Master Level) -- Fall 2018, Spring 2019, Fall 2019</span></li>
