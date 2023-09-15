@@ -26,8 +26,8 @@ redirect_from:
 
 
 <ul class="custom-bullet">
-<span style="font-size: 18px;"><strong>I. Investment</strong></span><br>
-  <span style="font-size: 16px;"><strong>I am an experienced equity investor knowledgeable in both technicals and fundamentals</strong></span>
+<span style="font-size: 18px;"><strong>Investment</strong></span><br>
+  <span style="font-size: 16px;">I am an experienced equity investor knowledgeable in both technicals and fundamentals</span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: pxfonts, monospace;">My investment principle 1: Life-changing opportunities emerge as disaster strikes</span></li>
       <li><span style="font-size: 15px; font-family: pxfonts, monospace;">My investment principle 2: Being extremely critical when making decisions</span></li>
@@ -39,8 +39,8 @@ redirect_from:
 <br>
 
 <ul class="custom-bullet">
-<span style="font-size: 18px;"><strong>II. Entrepreneurship</strong></span><br>
-  <span style="font-size: 16px;"><strong>I have a strong passion for entrepreneurship, despite my limited experience</strong></span>
+<span style="font-size: 18px;"><strong>Entrepreneurship</strong></span><br>
+  <span style="font-size: 16px;">I have a strong passion for entrepreneurship, despite my limited experience</span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">My motivation: I aim to be a philanthropist, and entrepreneurship offers a swift route to realize this ambition</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">My belief: An entrepreneur's enduring success is determined by their product, not marketing</span></li>
