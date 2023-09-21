@@ -20,9 +20,9 @@ This paper studies the impacts of initial labor market conditions on young econo
 </small><br><br/></div>
 
 <<<<<<< HEAD
-[JMP]:{{ site.baseurl }}{% link assets/files/jmp.pdf %}
+[JMP]:{{ site.baseurl }}{% link assets/files/JMP.pdf %}
 =======
-[JMP]:{{ site.baseurl }}{% link assets/files/jmp.pdf %}
+[JMP]:{{ site.baseurl }}{% link assets/files/JMP.pdf %}
 >>>>>>> d4f8fc9cebb3a9d694f892875a1be9d1f8dd1291
 
 
