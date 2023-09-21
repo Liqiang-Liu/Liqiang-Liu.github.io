@@ -22,7 +22,7 @@ This paper studies the impacts of initial labor market conditions on young econo
 [JMP-draft]:{{ site.baseurl }}{% link assets/files/JMP.pdf %}
 
 
-<span style="font-size: 18px; font-family: 'CMU Bright';">“Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Health Outcomes Over Life Cycle”</span><br/>
+<span style="font-size: 18px; font-family: 'CMU Bright';">“Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Life-Cycle Health Outcomes”</span><br/>
 <small>[ <a href="#/" onclick="visib('pill')"><span style="color:teal">Abstract</span></a> ] </small>
 
 <div id="pill" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
