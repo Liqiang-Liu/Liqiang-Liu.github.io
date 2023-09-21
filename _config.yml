@@ -5,9 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-<meta http-equiv='cache-control' content='no-cache'> 
-<meta http-equiv='expires' content='0'> 
-<meta http-equiv='pragma' content='no-cache'>
+#<meta http-equiv='cache-control' content='no-cache'> 
+#<meta http-equiv='expires' content='0'> 
+#<meta http-equiv='pragma' content='no-cache'>
 
 # Site Settings
 locale                   : "en-US"
