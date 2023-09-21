@@ -1,22 +1,35 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#  - title: "About Me"
+#    url: /about/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "CV"
+    url: /assets/files/Liqiang_Liu_CV.pdf
+
+  - title: "Research"
+    url: /research/
+    
+#  - title: "Publications"
+#    url: /publications/
+
+#  - title: "Talks"
+#    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+ # - title: "Blog Posts"
+ #   url: /year-archive/
+
+
+  - title: "Work Experience"
+    url: /workexperience/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Interests"
+    url: /interests/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/

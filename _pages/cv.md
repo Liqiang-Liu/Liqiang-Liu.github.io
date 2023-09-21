@@ -7,8 +7,17 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
+<iframe src="/files/Liqiang_Liu_CV.pdf" width="80%" height="500" frameborder="no" marginwidth="0" marginheight="0">
+</iframe>
+
+Download my CV <a href="https://liqiang-liu.github.io/files/Liqiang_Liu_CV.pdf" style="text-decoration:none;"><span style="color:#1c39bb"><font size="3">[Here]</font></span></a>
+
+
+<!--
+
+{% include base_path %}
+Download my CV <span style="color: #0072bb">[Here]</span>(https://liqiang-liu.github.io/files/cv.pdf)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +66,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
