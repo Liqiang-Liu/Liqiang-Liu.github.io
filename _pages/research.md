@@ -13,13 +13,13 @@ redirect_from:
 
 **Working Papers**<br/>
 <span style="font-size: 18px; font-family: 'CMU Bright';">“Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from the Economics Discipline”  (<font size="3"><span style="color:black">Job Market Paper</span></font>)</span><br/>
-<small>[ <a href="#/" onclick="visib('jmp')"><span style="color:teal">Abstract</span></a> | [<span style="color:teal">Draft</span>][JMP] ] </small>
+<small>[ <a href="#/" onclick="visib('jmp')"><span style="color:teal">Abstract</span></a> | [<span style="color:teal">Draft</span>][JMP-draft] ] </small>
 
 <div id="jmp" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
 This paper studies the impacts of initial labor market conditions on young economists' early-career co-authorship networks and academic achievements. The identification leverages the plausibly exogenous variation in labor market conditions at initial entry, instrumented by predicted year of graduation unemployment rates. Utilizing three novel datasets I collected (U.S. PhD candidates, Top 5 Co-authorship networks, NBER affiliated scholars), I find that economists graduating during elevated unemployment periods show expanded social networks and increased research output, although the research output impact diminishes after five years post-graduation. Furthermore, the findings suggest that economists graduating during the Great Recession, who are male and non-US citizens, face reduced probabilities of securing tenure at top-ranked economics departments compared to their non-recession counterparts. Additionally, heterogeneity analysis reveals that the effects of adverse initial labor market conditions primarily affect economists who are white, male, non-US citizens, or graduating from Tier 1 schools. I also explore the mechanisms behind the effects. The results indicate that increased extrinsic motivation may boost early-career social networks and research output, while anticipated tenure and post-doctoral pursuits may partially explain the later impact reversal. Moreover, underperformance in non-research factors may account for reduced tenure prospects at top-ranked economics departments.
 </small><br><br/></div>
 
-[JMP]:{{ site.baseurl }}{% link assets/files/JMP.pdf %}
+[JMP-draft]:{{ site.baseurl }}{% link assets/files/JMP.pdf %}
 
 
 <span style="font-size: 18px; font-family: 'CMU Bright';">“Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Health Outcomes Over Life Cycle”</span><br/>
