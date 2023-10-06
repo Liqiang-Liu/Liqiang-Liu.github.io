@@ -54,8 +54,8 @@ redirect_from:
 <span style="font-size: 18px;"><strong>Reading Econometrics</strong></span><br>
   <span style="font-size: 16px;">I love reading econometric methods books, papers, and tweets in empirical research</span>
     <ul class="custom-bullet">
-      <li><span style="font-size: 15px; font-family: monospace;">My favorite books: </span>
-        <ul>
+      <li><span style="font-size: 15px; font-family: monospace;">My favorite books:</span>
+        <ul class="custom-bullet">
         <li><span style="font-size: 13px; font-family: monospace;">Mostly Harmless Econometrics: An Empiricist's Companion</span></li>
         <li><span style="font-size: 13px; font-family: monospace;">Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction</span></li> 
         <li><span style="font-size: 13px; font-family: monospace;">Counterfactuals and Causal Inference: Methods and Principles for Social Research</span></li>
