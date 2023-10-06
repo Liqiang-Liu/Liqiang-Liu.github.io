@@ -48,24 +48,16 @@ redirect_from:
      </ul>
 </ul>
  
-<style>
-  /* Add left indentation to paragraphs */
-  p {
-    text-indent: 20px; /* You can adjust the value to control the amount of indentation */
-  }
-</style>
 
 <ul class="custom-bullet">
 <span style="font-size: 18px;"><strong>Reading Econometrics</strong></span><br>
   <span style="font-size: 16px;">I love reading econometric methods books, papers, and tweets in empirical research</span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">My favorite books:</span>
-        <p>
-        <li><span style="font-size: 13px; font-family: monospace;">Mostly Harmless Econometrics: An Empiricist's Companion</span></li>
-        <li><span style="font-size: 13px; font-family: monospace;">Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction</span></li> 
-        <li><span style="font-size: 13px; font-family: monospace;">Counterfactuals and Causal Inference: Methods and Principles for Social Research</span></li>
-        <li><span style="font-size: 13px; font-family: monospace;">Causality: Models, Reasoning, and Inference</span></li>
-        </p>
+        <blockquote><li><span style="font-size: 13px; font-family: monospace;">Mostly Harmless Econometrics: An Empiricist's Companion</span></li></blockquote>
+        <blockquote><li><span style="font-size: 13px; font-family: monospace;">Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction</span></li></blockquote> 
+        <blockquote><li><span style="font-size: 13px; font-family: monospace;">Counterfactuals and Causal Inference: Methods and Principles for Social Research</span></li></blockquote>
+        <blockquote><li><span style="font-size: 13px; font-family: monospace;">Causality: Models, Reasoning, and Inference</span></li></blockquote>
       </li>
       <li><span style="font-size: 15px; font-family: monospace;">Jeffrey Wooldridge's tweets about econometrics are fantastic</span></li>
      </ul>
