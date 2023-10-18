@@ -24,6 +24,7 @@ redirect_from:
 
 <div class="image-container">
   <img src="/images/background1.jpg" alt="Image">
+  <br>
   <p><span style="font-family: 'CMU Bright';">I am a Ph.D. candidate in Economics at <a href="https://www.buffalo.edu/" style="text-decoration:none;"><span style="color: #1c39bb">The State University of New York at Buffalo</span></a>.</span></p>
 
   <p><span style="font-family: 'CMU Bright';">My primary research field is applied microeconomics, focusing on labor and health economics. I am also interested in studying the formation and impact of social networks.</span></p>
