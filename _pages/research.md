@@ -11,7 +11,7 @@ redirect_from:
 <head>
     <style>
         .bolder-text {
-            font-weight: 600; /* Adjust the value to make it slightly bolder */
+            font-weight: 650; /* Adjust the value to make it slightly bolder */
         }
     </style>
 </head>
@@ -19,9 +19,9 @@ redirect_from:
 # <center> Research </center>
 - - -
 
-<span style="font-size: 22px;"><strong>Working Papers</strong></span><br/>
+<span style="font-size: 21px;"><strong>Working Papers</strong></span><br/>
 
-<span style="font-size: 17px;"><span class="bolder-text">Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from the Economics Discipline</span> (<font size="3"><span style="color: black;">Job Market Paper</span></font>)</span><br/>
+<span style="font-size: 16.5px;"><span class="bolder-text">Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from the Economics Discipline</span> (<font size="3"><span style="color: black;">Job Market Paper</span></font>)</span><br/>
 <small>[ <a href="#/" onclick="visib('jmp')"><span style="color:teal">Abstract</span></a> | [<span style="color:teal">Draft</span>][JMP-draft] ] </small>
 
 <div id="jmp" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
@@ -31,7 +31,7 @@ This paper studies the impacts of initial labor market conditions on economists'
 [JMP-draft]:{{ site.baseurl }}{% link assets/files/JMP.pdf %}
 
 
-<span style="font-size: 17px;"><span class="bolder-text">Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Life-Cycle Health Outcomes</span></span><br/>
+<span style="font-size: 16.5px;"><span class="bolder-text">Beyond Economic Benefits: Early Legal Access to Oral Contraceptives and Women’s Life-Cycle Health Outcomes</span></span><br/>
 <small>[ <a href="#/" onclick="visib('pill')"><span style="color:teal">Abstract</span></a> ] </small>
 
 <div id="pill" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
@@ -55,13 +55,13 @@ This paper investigates the effects of early legal access to oral contraceptives
 [//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
 
 <br>
-<span style="font-size: 22px;"><strong>Works in Progress</strong></span><br/>
+<span style="font-size: 21px;"><strong>Works in Progress</strong></span><br/>
 
-<span style="font-size: 17px;"><span class="bolder-text">Systemic Bias in US Economics Departments: The Role of Homophily</span> <span style="font-size:14px;"> *with Randall Ellis, Changwoo Lee, and Jiarui Wang*</span></span> <br/>
+<span style="font-size: 16.5px;"><span class="bolder-text">Systemic Bias in US Economics Departments: The Role of Homophily</span> <span style="font-size:14px;"> *with Randall Ellis, Changwoo Lee, and Jiarui Wang*</span></span> <br/>
 
-<span style="font-size: 17px;"><span class="bolder-text">Surname Initials, Social Capital and Mobility in Academia: Evidence from the Top50 U.S. Economics Departments</span> <span style="font-size:16px;"> <br/>
+<span style="font-size: 16.5px;"><span class="bolder-text">Surname Initials, Social Capital and Mobility in Academia: Evidence from the Top50 U.S. Economics Departments</span> <span style="font-size:16px;"> <br/>
 
-<span style="font-size: 17px;"><span class="bolder-text">Measuring Dollar Risk: A Natural Language Processing Approach</span><span style="font-size:14px;"> *with Jiarui Wang*</span></span>
+<span style="font-size: 16.5px;"><span class="bolder-text">Measuring Dollar Risk: A Natural Language Processing Approach</span><span style="font-size:14px;"> *with Jiarui Wang*</span></span>
 
 <!--
 <style>
