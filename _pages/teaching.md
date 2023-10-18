@@ -7,6 +7,7 @@ redirect_from:
   - /teaching.html
 ---
 
+
 # <center> Teaching Experience </center>
 - - -
 
