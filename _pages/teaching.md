@@ -6,7 +6,13 @@ redirect_from:
   - /md/
   - /teaching.html
 ---
-<br/>
+<head>
+    <style>
+        .bolder-text {
+            font-weight: 500; /* Adjust the value to make it slightly bolder */
+        }
+    </style>
+</head>
 
 # <center> Teaching Experience </center>
 - - -
