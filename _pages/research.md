@@ -11,7 +11,7 @@ redirect_from:
 <head>
     <style>
         .bolder-text {
-            font-weight: 700; /* Adjust the value to make it slightly bolder */
+            font-weight: 600; /* Adjust the value to make it slightly bolder */
         }
     </style>
 </head>
