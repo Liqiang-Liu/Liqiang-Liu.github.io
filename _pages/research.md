@@ -57,11 +57,11 @@ This paper investigates the effects of early legal access to oral contraceptives
 <br>
 <span style="font-size: 21px;"><strong>Works in Progress</strong></span><br/>
 
-<span style="font-size: 16px;"><span class="bolder-text">Systemic Bias in US Economics Departments: The Role of Homophily</span> <span style="font-size:14px;"> with Randall Ellis, Changwoo Lee, and Jiarui Wang</span></span> <br/>
+<span style="font-size: 16px;"><span class="bolder-text">Systemic Bias in US Economics Departments: The Role of Homophily</span> <span style="font-size:14px;"> *with Randall Ellis, Changwoo Lee, and Jiarui Wang*</span></span> <br/>
 
 <span style="font-size: 16px;"><span class="bolder-text">Surname Initials, Social Capital and Mobility in Academia: Evidence from the Top50 U.S. Economics Departments</span> <span style="font-size:16px;"> <br/>
 
-<span style="font-size: 16px;"><span class="bolder-text">Measuring Dollar Risk: A Natural Language Processing Approach</span><span style="font-size:14px;"> with Jiarui Wang</span></span>
+<span style="font-size: 16px;"><span class="bolder-text">Measuring Dollar Risk: A Natural Language Processing Approach</span><span style="font-size:14px;"> *with Jiarui Wang*</span></span>
 
 <!--
 <style>
