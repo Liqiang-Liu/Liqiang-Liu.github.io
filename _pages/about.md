@@ -24,10 +24,10 @@ redirect_from:
 
 <div class="image-container">
   <img src="/images/background1.jpg" alt="Image">
-  <p><span style="font-family: 'CMU Bright';">I am a Ph.D. candidate in Economics at <a href="https://www.buffalo.edu/" style="text-decoration:none;"><span style="color: #1c39bb">University at Buffalo, The State University of New York</span></a>. My primary research field is applied microeconomics, with a focus on labor economics and health economics. I am also interested in studying the formation and impact of social networks.</span></p>
+  <p><span style="font-family: 'CMU Bright';">I am a Ph.D. candidate in Economics at <a href="https://www.buffalo.edu/" style="text-decoration:none;"><span style="color: #1c39bb">The State University of New York at Buffalo</span></a>. My primary research field is applied microeconomics, focusing on labor and health economics. I am also interested in studying the formation and impact of social networks.</span></p>
 
-  <p><span style="font-family: 'CMU Bright';">During Fall 2022 to Spring 2023, I was a visiting Ph.D. student in the department of Economics at <a href="https://www.bu.edu/econ/" style="text-decoration:none;"><span style="color: #800000">Boston University</span></a>.</span></p>
-
+  <p><span style="font-family: 'CMU Bright';">I visited Boston University's <a href="https://www.bu.edu/econ/" style="text-decoration:none;"><span style="color: #800000">Economics Department</span></a> from Fall 2022 to Spring 2023 as a Ph.D. student.</span></p>
+  
   <p><span style="font-family: 'CMU Bright';">I am on the job market in the 2023-2024 academic year and will be available for interviews.</span></p>
 
 </div> 
@@ -36,6 +36,9 @@ redirect_from:
 
 
 <!--
+
+  <p><span style="font-family: 'CMU Bright';">During Fall 2022 to Spring 2023, I was a visiting Ph.D. student in the department of Economics at <a href="https://www.bu.edu/econ/" style="text-decoration:none;"><span style="color: #800000">Boston University</span></a>.</span></p>
+
 SUNY University at Buffalo
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
