@@ -6,9 +6,11 @@ redirect_from:
   - /md/
   - /teaching.html
 ---
+.half-height {
+  line-height: 0.5; /* Adjust the value to achieve the desired half height effect */
+}
 
-
-# <center> Teaching Experience </center>
+<p class="half-height"> # <center> Teaching Experience </center> </p>
 - - -
 
 <style>
