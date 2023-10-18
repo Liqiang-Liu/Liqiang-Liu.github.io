@@ -6,7 +6,6 @@ redirect_from:
   - /md/
   - /interests.html
 ---
-<br/> 
 
 # <center> Interests </center>
 - - -
