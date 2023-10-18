@@ -21,9 +21,6 @@
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
-     @media #{$large} {
-        @include grid(12,6); // increase 6 if you want to make it wider
-        }
    }
 
   .page__inner-wrap {
