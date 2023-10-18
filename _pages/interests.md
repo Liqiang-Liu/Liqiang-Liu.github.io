@@ -7,6 +7,14 @@ redirect_from:
   - /interests.html
 ---
 
+<head>
+    <style>
+        .bolder-text {
+            font-weight: 300; /* Adjust the value to make it slightly bolder */
+        }
+    </style>
+</head>
+
 # <center> Interests </center>
 - - -
 
@@ -26,7 +34,7 @@ redirect_from:
 
 <ul class="custom-bullet">
 <span style="font-size: 18px;"><strong>Investment</strong></span><br>
-  <span style="font-size: 16px;">I am an experienced equity investor knowledgeable in both technicals and fundamentals</span>
+  <span style="font-size: 16px;"><span class="bolder-text">I am an experienced equity investor knowledgeable in both technicals and fundamentals</span></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: pxfonts, monospace;">My investment principle 1: Life-changing opportunities emerge as disaster strikes</span></li>
       <li><span style="font-size: 15px; font-family: pxfonts, monospace;">My investment principle 2: Being extremely critical when making decisions</span></li>
@@ -39,7 +47,7 @@ redirect_from:
 
 <ul class="custom-bullet">
 <span style="font-size: 18px;"><strong>Entrepreneurship</strong></span><br>
-  <span style="font-size: 16px;">I have a strong passion for entrepreneurship, despite my limited experience</span>
+  <span style="font-size: 16px;"><span class="bolder-text">I have a strong passion for entrepreneurship, despite my limited experience</span></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">My motivation: I aim to be a philanthropist, and entrepreneurship offers a swift route to realize this ambition</span></li>
       <li><span style="font-size: 15px; font-family: monospace;">My belief: An entrepreneur's enduring success is determined by their product, not marketing</span></li>
@@ -50,7 +58,7 @@ redirect_from:
 
 <ul class="custom-bullet">
 <span style="font-size: 18px;"><strong>Reading Econometrics</strong></span><br>
-  <span style="font-size: 16px;">I love reading econometric methods books, papers, and tweets in empirical research</span>
+  <span style="font-size: 16px;"><span class="bolder-text">I love reading econometric methods books, papers, and tweets in empirical research</span></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; font-family: monospace;">My favorite books:</span><br>
         <span style="font-size: 14px; font-family: monospace;">1. Mostly Harmless Econometrics: An Empiricist's Companion</span><br>
