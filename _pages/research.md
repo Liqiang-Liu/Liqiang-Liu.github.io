@@ -6,7 +6,6 @@ redirect_from:
   - /md/
   - /research.html
 ---
-<br/> 
 
 <head>
     <style>
