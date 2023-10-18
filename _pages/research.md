@@ -11,7 +11,7 @@ redirect_from:
 # <center> Research </center>
 - - -
 
-<span style="font-size: 20px;">Working Papers</span><br/>
+<span style="font-size: 20px;"><strong>Working Papers</strong></span><br/>
 <span style="font-size: 16px;"><strong>“Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from the Economics Discipline”</strong>(<font size="3"><span style="color:black">Job Market Paper</span></font>)</span><br/>
 <small>[ <a href="#/" onclick="visib('jmp')"><span style="color:teal">Abstract</span></a> | [<span style="color:teal">Draft</span>][JMP-draft] ] </small>
 
