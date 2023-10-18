@@ -11,7 +11,7 @@ redirect_from:
 <head>
     <style>
         .bolder-text {
-            font-weight: 600; /* Adjust the value to make it slightly bolder */
+            font-weight: 700; /* Adjust the value to make it slightly bolder */
         }
     </style>
 </head>
@@ -21,7 +21,7 @@ redirect_from:
 
 <span style="font-size: 22px;"><strong>Working Papers</strong></span><br/>
 
-<span style="font-size: 14px;">“<span class="bolder-text">Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from the Economics Discipline</span>” (<font size="3"><span style="color: black;">Job Market Paper</span></font>)</span><br/>
+<span style="font-size: 14px;">“<span class="bolder-text">Initial Labor Market Conditions, Social Networks and Career Achievements: Evidence from the Economics Discipline</span>” (<font size="2"><span style="color: black;">Job Market Paper</span></font>)</span><br/>
 <small>[ <a href="#/" onclick="visib('jmp')"><span style="color:teal">Abstract</span></a> | [<span style="color:teal">Draft</span>][JMP-draft] ] </small>
 
 <div id="jmp" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
