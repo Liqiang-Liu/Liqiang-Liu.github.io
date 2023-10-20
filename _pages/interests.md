@@ -58,10 +58,10 @@ redirect_from:
   <span style="font-size: 16px;"><span class="bolder-text">I love reading econometric methods books, papers, and tweets in empirical research</span></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; ">My favorite books:</span><br>
-          <li><span style="font-size: 14px; "> Mostly Harmless Econometrics: An Empiricist's Companion</span></li><br>
-          <li><span style="font-size: 14px; "> Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction</span></li><br>
-          <li><span style="font-size: 14px; "> Counterfactuals and Causal Inference: Methods and Principles for Social Research</span></li><br>
-          <li><span style="font-size: 14px; "> Causality: Models, Reasoning, and Inference</span></li>
+         <span style="font-size: 14px; text-indent: 1em;"> 1. Mostly Harmless Econometrics: An Empiricist's Companion</span></li><br>
+         <span style="font-size: 14px; text-indent: 1em;"> 2. Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction</span><br>
+         <span style="font-size: 14px; text-indent: 1em;"> 3. Counterfactuals and Causal Inference: Methods and Principles for Social Research</span><br>
+         <span style="font-size: 14px; text-indent: 1em;"> 4. Causality: Models, Reasoning, and Inference</span>
       </li> 
      <li><span style="font-size: 15px; ">Jeffrey Wooldridge's tweets about econometrics are fantastic</span></li>
      </ul>
