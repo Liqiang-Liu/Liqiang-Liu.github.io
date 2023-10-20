@@ -25,7 +25,7 @@ redirect_from:
 }
 
 .custom-bullet li::before {
-    content: "\25A3";  Unicode character for a small square */
+    content: "\25A0"; /* Unicode character for a small square */
     font-size: 8px; /* Adjust this value to change the icon size */
     margin-right: 1em; /* Adjust this value to control the spacing */
 }
@@ -33,14 +33,14 @@ redirect_from:
 
 
 <ul class="custom-bullet">
-<span style="font-size: 18px;"><strong>Investment</strong></span><br>
-  <span style="font-size: 16px;"><span class="bolder-text">I am an experienced equity investor knowledgeable in both technicals and fundamentals</span></span>
+    <span style="font-size: 18px;"><strong>Investment</strong></span><br>
+    <span style="font-size: 16px;"><span class="bolder-text">I am an experienced equity investor knowledgeable in both technicals and fundamentals</span></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; ">My investment principle 1: Life-changing opportunities emerge as disaster strikes</span></li>
       <li><span style="font-size: 15px; ">My investment principle 2: Being extremely critical when making decisions</span></li>
       <li><span style="font-size: 15px; ">My favorite investors: Warren Buffett and Ray Dalio</span></li>
       <li><span style="font-size: 15px; ">My favorite podcast: All-In Podcast</span></li>
-     </ul>
+    </ul>
 </ul>
 <br/>
 <ul class="custom-bullet">
