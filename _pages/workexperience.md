@@ -38,11 +38,11 @@ redirect_from:
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; ">Conducted economic cycle research to analyze material (i.e., PCB) inventory planning and procurement, <br/>effectively ensuring PCB supply during peak seasons</span></li>
       <li><span style="font-size: 15px; ">Searched and onboarded two new suppliers through comprehensive evaluation</span></li>
-      <li><span style="font-size: 15px; ">Negotiated materials prices with experienced suppliers and monitored subsequent deliveries</span></li>
+      <li><span style="font-size: 15px; ">Negotiated materials prices with experienced suppliers and monitored subsequent deliveries</span></li><br>
      </ul>
   </ul>
 
-<br>
+
 <ul class="custom-bullet">
   <span style="font-size: 16px;"><strong>Asset Management Intern, Xi’an Maike Futures Brokerage Co., Ltd., Xi’an, China [03/2015 - 06/2015]</strong></span><br>
   <span style="font-size: 16px;"><i>Internship</i></span>
