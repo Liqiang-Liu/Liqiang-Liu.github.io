@@ -24,9 +24,9 @@ redirect_from:
 }
 
 .custom-bullet li::before {
-    content: "\25A0"; /* Unicode character for a small square */
-    font-size: 8px; /* Adjust this value to change the icon size */
-    margin-right: 1.0em; /* Adjust this value to control the spacing */
+    content: "\25B6"; /* Unicode character for BLACK RIGHT-POINTING TRIANGLE */
+    font-size: 10px; /* Adjust this value to change the icon size */
+    margin-right: 1em; /* Adjust this value to control the spacing */
 }
 </style>
 
