@@ -25,7 +25,7 @@ redirect_from:
 }
 
 .custom-bullet li::before {
-    content: "\25A0"; /* Unicode character for a small square */
+    content: "\25BA"; /* Unicode character for a small square */
     font-size: 8px; /* Adjust this value to change the icon size */
     margin-right: 1em; /* Adjust this value to control the spacing */
 }
@@ -45,7 +45,7 @@ redirect_from:
 <br/>
 <ul class="custom-bullet">
 <span style="font-size: 18px;"><strong>Entrepreneurship</strong></span><br>
-  <span style="font-size: 16px;"><span class="bolder-text">I have a strong passion for entrepreneurship, despite my limited experience</span></span>
+  <span style="font-size: 16px;"><span class="bolder-text">I have a strong passion for entrepreneurship despite my limited experience</span></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; ">My motivation: I aim to be a philanthropist, and entrepreneurship offers a swift route to realize this ambition</span></li>
       <li><span style="font-size: 15px; ">My belief: An entrepreneur's enduring success is determined by their product, not marketing</span></li>
@@ -55,7 +55,7 @@ redirect_from:
 <br/>
 <ul class="custom-bullet">
 <span style="font-size: 18px;"><strong>Reading Econometrics</strong></span><br>
-  <span style="font-size: 16px;"><span class="bolder-text">I love reading econometric methods books, papers, and tweets in empirical research</span></span>
+  <span style="font-size: 16px;"><span class="bolder-text">I love reading econometric methods books, papers, and tweets on empirical research</span></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; ">My favorite books:</span><br>
          <span style="font-size: 14px; text-indent: 1em;"> 1. Mostly Harmless Econometrics: An Empiricist's Companion</span><br>
