@@ -27,7 +27,7 @@ redirect_from:
 .custom-bullet li::before {
     /* content: "\25CF"; /* Unicode character for a small circle */
     content: "\25A0";  Unicode character for a small square */
-    font-size: 18px; /* Adjust this value to change the icon size */
+    font-size: 14px; /* Adjust this value to change the icon size */
     margin-right: 1em; /* Adjust this value to control the spacing */
 }
 </style>
@@ -59,10 +59,10 @@ redirect_from:
   <span style="font-size: 16px;"><span class="bolder-text">I love reading econometric methods books, papers, and tweets in empirical research</span></span>
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; ">My favorite books:</span><br>
-        <span style="font-size: 14px; "> 1. Mostly Harmless Econometrics: An Empiricist's Companion</span><br>
-        <span style="font-size: 14px; "> 2. Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction</span><br>
-        <span style="font-size: 14px; "> 3. Counterfactuals and Causal Inference: Methods and Principles for Social Research</span><br>
-        <span style="font-size: 14px; "> 4. Causality: Models, Reasoning, and Inference</span>
+        <li><span style="font-size: 14px; "> 1. Mostly Harmless Econometrics: An Empiricist's Companion</span></li><br>
+        <li><span style="font-size: 14px; "> 2. Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction</span></li><br>
+        <li><span style="font-size: 14px; "> 3. Counterfactuals and Causal Inference: Methods and Principles for Social Research</span></li><br>
+        <li><span style="font-size: 14px; "> 4. Causality: Models, Reasoning, and Inference</span></li>
       </li> 
      <li><span style="font-size: 15px; ">Jeffrey Wooldridge's tweets about econometrics are fantastic</span></li>
      </ul>
