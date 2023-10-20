@@ -10,7 +10,7 @@ redirect_from:
 <head>
     <style>
         .bolder-text {
-            font-weight: 500; /* Adjust the value to make it slightly bolder */
+            font-weight: 450; /* Adjust the value to make it slightly bolder */
         }
     </style>
 </head>
@@ -27,7 +27,7 @@ redirect_from:
 .custom-bullet li::before {
     content: "\25A0"; /* Unicode character for a small square */
     font-size: 8px; /* Adjust this value to change the icon size */
-    margin-right: 0.5em; /* Adjust this value to control the spacing */
+    margin-right: 1em; /* Adjust this value to control the spacing */
 }
 </style>
 
@@ -36,37 +36,37 @@ redirect_from:
 <span style="font-size: 18px;"><strong>Investment</strong></span><br>
   <span style="font-size: 16px;"><span class="bolder-text">I am an experienced equity investor knowledgeable in both technicals and fundamentals</span></span>
     <ul class="custom-bullet">
-      <li><span style="font-size: 15px; font-family: pxfonts, monospace;">My investment principle 1: Life-changing opportunities emerge as disaster strikes</span></li>
-      <li><span style="font-size: 15px; font-family: pxfonts, monospace;">My investment principle 2: Being extremely critical when making decisions</span></li>
-      <li><span style="font-size: 15px; font-family: pxfonts, monospace;">My favorite investors: Warren Buffett and Ray Dalio</span></li>
-      <li><span style="font-size: 15px; font-family: pxfonts, monospace;">My favorite podcast: All-In Podcast</span></li>
+      <li><span style="font-size: 15px; ">My investment principle 1: Life-changing opportunities emerge as disaster strikes</span></li>
+      <li><span style="font-size: 15px; ">My investment principle 2: Being extremely critical when making decisions</span></li>
+      <li><span style="font-size: 15px; ">My favorite investors: Warren Buffett and Ray Dalio</span></li>
+      <li><span style="font-size: 15px; ">My favorite podcast: All-In Podcast</span></li>
      </ul>
 </ul>
- 
+<br/>
 
 
 <ul class="custom-bullet">
 <span style="font-size: 18px;"><strong>Entrepreneurship</strong></span><br>
   <span style="font-size: 16px;"><span class="bolder-text">I have a strong passion for entrepreneurship, despite my limited experience</span></span>
     <ul class="custom-bullet">
-      <li><span style="font-size: 15px; font-family: monospace;">My motivation: I aim to be a philanthropist, and entrepreneurship offers a swift route to realize this ambition</span></li>
-      <li><span style="font-size: 15px; font-family: monospace;">My belief: An entrepreneur's enduring success is determined by their product, not marketing</span></li>
-      <li><span style="font-size: 15px; font-family: monospace;">My favorite entrepreneurs: Steve Jobs and Elon Musk</span></li> 
+      <li><span style="font-size: 15px; ">My motivation: I aim to be a philanthropist, and entrepreneurship offers a swift route to realize this ambition</span></li>
+      <li><span style="font-size: 15px; ">My belief: An entrepreneur's enduring success is determined by their product, not marketing</span></li>
+      <li><span style="font-size: 15px; ">My favorite entrepreneurs: Steve Jobs and Elon Musk</span></li> 
      </ul>
 </ul>
- 
+<br/>
 
 <ul class="custom-bullet">
 <span style="font-size: 18px;"><strong>Reading Econometrics</strong></span><br>
   <span style="font-size: 16px;"><span class="bolder-text">I love reading econometric methods books, papers, and tweets in empirical research</span></span>
     <ul class="custom-bullet">
-      <li><span style="font-size: 15px; font-family: monospace;">My favorite books:</span><br>
-        <span style="font-size: 14px; font-family: monospace;">1. Mostly Harmless Econometrics: An Empiricist's Companion</span><br>
-        <span style="font-size: 14px; font-family: monospace;">2. Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction</span><br>
-        <span style="font-size: 14px; font-family: monospace;">3. Counterfactuals and Causal Inference: Methods and Principles for Social Research</span><br>
-        <span style="font-size: 14px; font-family: monospace;">4. Causality: Models, Reasoning, and Inference</span>
+      <li><span style="font-size: 15px; ">My favorite books:</span><br>
+        <span style="font-size: 14px; ">1. Mostly Harmless Econometrics: An Empiricist's Companion</span><br>
+        <span style="font-size: 14px; ">2. Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction</span><br>
+        <span style="font-size: 14px; ">3. Counterfactuals and Causal Inference: Methods and Principles for Social Research</span><br>
+        <span style="font-size: 14px; ">4. Causality: Models, Reasoning, and Inference</span>
       </li> 
-     <li><span style="font-size: 15px; font-family: monospace;">Jeffrey Wooldridge's tweets about econometrics are fantastic</span></li>
+     <li><span style="font-size: 15px; ">Jeffrey Wooldridge's tweets about econometrics are fantastic</span></li>
      </ul>
 </ul>
 
