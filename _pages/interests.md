@@ -26,7 +26,7 @@ redirect_from:
 
 .custom-bullet li::before {
     content: "\25A0"; /* Unicode character for a small square */
-    font-size: 8px; /* Adjust this value to change the icon size */
+    font-size: 10px; /* Adjust this value to change the icon size */
     margin-right: 1em; /* Adjust this value to control the spacing */
 }
 </style>
@@ -43,8 +43,6 @@ redirect_from:
      </ul>
 </ul>
 <br/>
-
-
 <ul class="custom-bullet">
 <span style="font-size: 18px;"><strong>Entrepreneurship</strong></span><br>
   <span style="font-size: 16px;"><span class="bolder-text">I have a strong passion for entrepreneurship, despite my limited experience</span></span>
@@ -55,7 +53,6 @@ redirect_from:
      </ul>
 </ul>
 <br/>
-
 <ul class="custom-bullet">
 <span style="font-size: 18px;"><strong>Reading Econometrics</strong></span><br>
   <span style="font-size: 16px;"><span class="bolder-text">I love reading econometric methods books, papers, and tweets in empirical research</span></span>
