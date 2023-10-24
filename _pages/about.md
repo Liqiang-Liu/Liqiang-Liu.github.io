@@ -29,7 +29,7 @@ redirect_from:
   <br>
   <p><span>I am a Ph.D. candidate in Economics at <a href="https://www.buffalo.edu/" style="text-decoration:none;"><span style="color: #1c39bb">The State University of New York at Buffalo</span></a>. My primary research field is applied microeconomics, focusing on labor and health economics. I am also interested in studying the formation and impact of social networks.</span></p>
   
-  <p><span>I visited Boston University's <a href="https://www.bu.edu/econ/" style="text-decoration:none;"><span style="color: #800000">Economics Department</span></a> from Fall 2022 to Spring 2023 as a Ph.D. student.</span></p>
+  <p><span>I visited Boston University's Economics Department from Fall 2022 to Spring 2023 as a Ph.D. student.</span></p>
   
   <p><span>I am on the job market in the 2023-2024 academic year and will be available for interviews.</span></p>
 
@@ -39,7 +39,8 @@ redirect_from:
 
 
 <!--
-
+  <p><span>I visited Boston University's <a href="https://www.bu.edu/econ/" style="text-decoration:none;"><span style="color: #800000">Economics Department</span></a> from Fall 2022 to Spring 2023 as a Ph.D. student.</span></p>
+  
   <p><span style="font-family: 'CMU Bright';">During Fall 2022 to Spring 2023, I was a visiting Ph.D. student in the department of Economics at <a href="https://www.bu.edu/econ/" style="text-decoration:none;"><span style="color: #800000">Boston University</span></a>.</span></p>
 
 SUNY University at Buffalo
