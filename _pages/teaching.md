@@ -34,11 +34,14 @@ redirect_from:
 <span style="font-size: 17px;"> <strong>Teaching Assistant, The State University of New York at Buffalo</strong> <strong> [09/2018 - 05/2022]</strong> </span><br>
 <ul class="custom-bullet"> 
     <ul class="custom-bullet">
-      <li><span style="font-size: 15px; ">Microeconomic Theory (Master Level) -- Fall 2018, Spring 2019, Fall 2019</span></li>
-      <li><span style="font-size: 15px; ">Econometrics (Master Level) -- Spring 2020</span></li>
-      <li><span style="font-size: 15px; ">Labor Economics (Master Level) -- Fall 2020</span></li>
-      <li><span style="font-size: 15px; ">Intro to Microeconomics (Undergraduate Level) -- Fall 2021</span></li>
-      <li><span style="font-size: 15px; ">Econometrics (Ph.D. Level) -- Spring 2021, Spring 2022</span></li>
+      <li><span style="font-size: 15px; ">Environmental Economics (Undergraduate Level), Microeconomic Theory (Undergraduate Level) -- Fall 2018</span></li>
+      <li><span style="font-size: 15px; ">Microeconomic Theory (Master Level), Capital Markets (Undergraduate Level) -- Spring 2019</span></li>
+      <li><span style="font-size: 15px; ">Environmental Economics (Undergraduate Level), Microeconomic Theory (Undergraduate Level) -- Fall 2019</span></li>
+      <li><span style="font-size: 15px; ">Econometrics (Master Level), Environmental Economics (Master Level) -- Spring 2020</span></li>
+      <li><span style="font-size: 15px; ">Macroeconomic Theory (Master level), Microeconomic Theory (Master Level) -- Fall 2020</span></li>
+      <li><span style="font-size: 15px; ">Econometrics (Ph.D. Level), Labor Economics (Master Level) -- Spring 2021</span></li>
+      <li><span style="font-size: 15px; ">Mathematics for Economists (Master Level), Intro to Microeconomics (Undergraduate Level) -- Fall 2021</span></li>
+      <li><span style="font-size: 15px; ">Econometrics (Ph.D. Level), Intro to Microeconomics (Undergraduate Level) -- Spring 2022</span></li>
      </ul>
 </ul>
 
@@ -46,6 +49,16 @@ redirect_from:
 
 
 <!--
+
+<ul class="custom-bullet"> 
+    <ul class="custom-bullet">
+      <li><span style="font-size: 15px; ">Microeconomic Theory (Master Level) -- Fall 2018, Spring 2019, Fall 2019</span></li>
+      <li><span style="font-size: 15px; ">Econometrics (Master Level) -- Spring 2020</span></li>
+      <li><span style="font-size: 15px; ">Labor Economics (Master Level) -- Fall 2020</span></li>
+      <li><span style="font-size: 15px; ">Intro to Microeconomics (Undergraduate Level) -- Fall 2021</span></li>
+      <li><span style="font-size: 15px; ">Econometrics (Ph.D. Level) -- Spring 2021, Spring 2022</span></li>
+     </ul>
+</ul>
 
  <span style="font-size: 16px;"><strong>Microeconomic Theory (Master Level)</strong></span>
     <ul class="custom-bullet">
