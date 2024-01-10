@@ -36,9 +36,9 @@ redirect_from:
   <span style="font-size: 16px;"><strong>Procurement Engineer, Shenzhen Union Technology Co., Ltd., Shenzhen, China [07/2015 - 07/2017]</strong></span><br>
   <span style="font-size: 16px;"> <i>Full-time</i></span>
     <ul class="custom-bullet">
-      <li><span style="font-size: 15px; ">Conducted economic cycle research to analyze material (i.e., PCB) inventory planning and procurement, <br/>effectively ensuring PCB supply during peak seasons</span></li>
-      <li><span style="font-size: 15px; ">Searched and onboarded two new suppliers through comprehensive evaluation</span></li>
-      <li><span style="font-size: 15px; ">Negotiated materials prices with experienced suppliers and monitored subsequent deliveries</span></li><br>
+      <li><span style="font-size: 15px; ">Conducted economic cycle research to inform material (i.e., printed circuit board) inventory planning and procurement, ensuring a stable PCB supply during peak seasons</span></li>
+      <li><span style="font-size: 15px; ">Searched and onboarded two new suppliers through comprehensive evaluation, achieving cost savings in PCB purchases and mitigating supply shortages</span></li>
+      <li><span style="font-size: 15px; ">Negotiated raw materials prices with experienced suppliers and monitored subsequent material deliveries</span></li><br>
      </ul>
   </ul>
 
@@ -47,9 +47,9 @@ redirect_from:
   <span style="font-size: 16px;"><strong>Asset Management Intern, Xi’an Maike Futures Brokerage Co., Ltd., Xi’an, China [03/2015 - 06/2015]</strong></span><br>
   <span style="font-size: 16px;"><i>Internship</i></span>
     <ul class="custom-bullet">
-      <li><span style="font-size: 15px; ">Produced datasets on economic events from major economies</span></li>
-      <li><span style="font-size: 15px; ">Analyzed the effects of economic events on the futures market</span></li>
-      <li><span style="font-size: 15px; ">Forecasted futures prices and determined appropriate investment strategies</span></li>
+      <li><span style="font-size: 15px; ">Produced comprehensive datasets encompassing economic and political events (e.g., updates on economic indicators, monetary policy, elections, and government policies) in major economies from 2000 to 2015</span></li>
+      <li><span style="font-size: 15px; ">Examined the impact of economic and political events on the price movements in futures indices</span></li>
+      <li><span style="font-size: 15px; ">Forecasted price movements using fitted models with techniques like linear and non-linear regressions, and determined optimal investment strategies</span></li>
      </ul>
 </ul>
 
