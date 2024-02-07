@@ -29,7 +29,7 @@ redirect_from:
   <br>
   <p><span>I am a Ph.D. candidate in Economics at <a href="https://www.buffalo.edu/" style="text-decoration:none;"><span style="color: #1c39bb">The State University of New York at Buffalo</span></a>. My primary research field is applied microeconomics, focusing on labor and health economics. I am also interested in studying the formation and impact of social networks, and Applied Econometrics (Causal Inference).</span></p>
 
-  <p><span>I am a positive and hardworking person. I learn most things through self-education, primarily by reading books, papers, open-source courses, and GitHub.</span></p>
+  <p><span>I am a positive and hardworking person. I learn many things through self-education, primarily by engaging with various resources such as books, papers, open-source courses, and GitHub.</span></p>
   
   <p><span>I visited Boston University's Economics Department from Fall 2022 to Spring 2023 as a Ph.D. student.</span></p>
   
