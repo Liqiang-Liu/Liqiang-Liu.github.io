@@ -49,7 +49,7 @@ redirect_from:
     <ul class="custom-bullet">
       <li><span style="font-size: 15px; ">Collected and compiled comprehensive datasets comprising economic and political events (e.g., updates on economic indicators, monetary policy, elections, and government policies) in major economies from 2000 to 2015</span></li>
       <li><span style="font-size: 15px; ">Estimated the correlation between economic & political events and futures indices series, resulting in calibrated models</span></li>
-      <li><span style="font-size: 15px; ">Projected futures price movements utilizing calibrated models employing techniques such as linear and non-linear regressions or ARIMA models, and identified optimal investment strategies</span></li>
+      <li><span style="font-size: 15px; ">Projected futures price movements utilizing calibrated models employing techniques such as linear and non-linear regressions or VAR models, and identified optimal investment strategies</span></li>
      </ul>
 </ul>
 
