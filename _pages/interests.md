@@ -39,7 +39,9 @@ redirect_from:
       <li><span style="font-size: 15px; ">My investment principle 1: Life-changing opportunities emerge as disaster strikes</span></li>
       <li><span style="font-size: 15px; ">My investment principle 2: Being extremely critical when making decisions</span></li>
       <li><span style="font-size: 15px; ">My favorite investors: Warren Buffett and Ray Dalio</span></li>
+      <!--
       <li><span style="font-size: 15px; ">My favorite podcast: All-In Podcast</span></li>
+      -->
     </ul>
 </ul>
 <br/>
