@@ -38,7 +38,7 @@ This paper investigates the effects of early legal access to oral contraceptives
 </small><br><br/></div>
 
 
-<span style="font-size: 16px;"><span class="bolder-text">Surname Initials, Job Choices, and Career Mobility in Research: Evidence from Ph.D. Economists</span>*with Jiarui Wang* <br>(<font size="2"><i>Draft available upon request</i></font>)</span><br/>
+<span style="font-size: 16px;"><span class="bolder-text">Surname Initials, Job Choices, and Career Mobility in Research: Evidence from Ph.D. Economists</span> *with Jiarui Wang* <br>(<font size="2"><i>Draft available upon request</i></font>)</span><br/>
 <small>[ <a href="#/" onclick="visib('Surname')"><span style="color:teal">Abstract</span></a> ] </small>
 
 <div id="Surname" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
