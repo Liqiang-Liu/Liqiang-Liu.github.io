@@ -38,6 +38,16 @@ This paper investigates the effects of early legal access to oral contraceptives
 </small><br><br/></div>
 
 
+<span style="font-size: 16px;"><span class="bolder-text">Surname Initials, Job Choices, and Career Mobility in Research: Evidence from Ph.D. Economists</span>*with Jiarui Wang* <br>(<font size="2"><i>Draft available upon request</i></font>)</span><br/>
+<small>[ <a href="#/" onclick="visib('Surname')"><span style="color:teal">Abstract</span></a> ] </small>
+
+<div id="Surname" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
+The alphabetical ordering of authors is a prevalent convention in economics publications. This paper investigates the impacts of surname initials on occupational and location choices and career mobility between research-oriented and non-research-oriented positions among economics Ph.D. candidates. Utilizing a novel dataset of Ph.D. candidates graduating from the top 15 U.S. economics departments between 2007 and 2015, the findings suggest that candidates with surname initials closer to the end of the alphabet are more likely to opt for non-publication-oriented jobs, relocate to Asia, and exhibit a shift from publication-oriented to non-publication-oriented jobs over the longer term.
+</small><br><br/></div>
+
+
+
+
 
 [//]: This java script is the button to show abstract
 <script>
@@ -58,7 +68,6 @@ This paper investigates the effects of early legal access to oral contraceptives
 
 <span style="font-size: 16px;"><span class="bolder-text">Systemic Bias in US Economics Departments: The Role of Homophily</span> <span style="font-size:14px;"> *with Randall Ellis, Changwoo Lee, and Jiarui Wang*</span></span> <br/>
 
-<span style="font-size: 16px;"><span class="bolder-text">Surname Initials, Social Capital and Mobility in Academia: Evidence from the Top50 U.S. Economics Departments</span> <span style="font-size:16px;"> <br/>
 
 <span style="font-size: 16px;"><span class="bolder-text">Measuring Dollar Risk: A Natural Language Processing Approach</span><span style="font-size:14px;"> *with Jiarui Wang*</span></span>
 
