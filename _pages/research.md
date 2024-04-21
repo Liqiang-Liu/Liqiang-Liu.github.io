@@ -42,7 +42,7 @@ This paper investigates the effects of early legal access to oral contraceptives
 <small>[ <a href="#/" onclick="visib('Surname')"><span style="color:teal">Abstract</span></a> ] </small>
 
 <div id="Surname" style="display: none; text-align: justify; background-color:#fafdff; line-height: 1.2" ><small>
-The alphabetical ordering of authors is a prevalent convention in economics publications. This paper investigates the impacts of surname initials on occupational and location choices and career mobility between research-oriented and non-research-oriented positions among economics Ph.D. candidates. Utilizing a novel dataset of Ph.D. candidates graduating from the top 15 U.S. economics departments between 2007 and 2015, the findings suggest that candidates with surname initials closer to the end of the alphabet are more likely to opt for non-publication-oriented jobs, relocate to Asia, and exhibit a shift from publication-oriented to non-publication-oriented jobs over the longer term.
+The alphabetical ordering of authors based on surname initials is a prevalent convention in economics publications. This paper investigates the impacts of surname initials on occupational choices, workplace locations, and career mobility between research-oriented and non-research-oriented positions among economics Ph.D. candidates. Utilizing a novel dataset of Ph.D. candidates graduating from the top 15 U.S. economics departments between 2007 and 2015, we find that candidates with surname initials closer to the end of the alphabet are more likely to opt for non-publication-oriented jobs, relocate to Asia, and exhibit a shift from publication-oriented to non-publication-oriented jobs over the longer term.
 </small><br><br/></div>
 
 
